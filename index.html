@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Busca de Itens - Catálogo de Mudança</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .search-section {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+        }
+
+        .search-box {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 15px 50px 15px 20px;
+            font-size: 1.1em;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            transition: all 0.3s;
+        }
+
+        #searchInput:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1.3em;
+            color: #999;
+        }
+
+        .filters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #333;
+            font-size: 0.9em;
+        }
+
+        select {
+            padding: 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .stats {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .stats-content {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .stat-item {
+            flex: 1;
+            min-width: 150px;
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+
+        .results {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .results-header {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .results-count {
+            font-size: 1.2em;
+            color: #333;
+            font-weight: 600;
+        }
+
+        .item-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 12px;
+            border-left: 5px solid #ccc;
+            transition: all 0.3s;
+        }
+
+        .item-card:hover {
+            transform: translateX(5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .item-card.alta {
+            border-left-color: #ffc107;
+            background: #fffbf0;
+        }
+
+        .item-card.media {
+            border-left-color: #2196F3;
+            background: #f0f7ff;
+        }
+
+        .item-card.baixa {
+            border-left-color: #9e9e9e;
+            background: #f5f5f5;
+        }
+
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .item-caixa {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .item-priority {
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+
+        .priority-alta {
+            background: #ffc107;
+            color: #000;
+        }
+
+        .priority-media {
+            background: #2196F3;
+            color: white;
+        }
+
+        .priority-baixa {
+            background: #9e9e9e;
+            color: white;
+        }
+
+        .item-description {
+            font-size: 1.1em;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .item-meta {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .meta-tag {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .meta-icon {
+            font-weight: bold;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+            font-size: 1.2em;
+        }
+
+        .no-results-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .filters {
+                grid-template-columns: 1fr;
+            }
+
+            .item-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📦 Catálogo de Mudança</h1>
+            <p class="subtitle">Encontre seus itens rapidamente!</p>
+        </header>
+
+        <div class="search-section">
+            <div class="search-box">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Busque por item, caixa, categoria..."
+                    autocomplete="off"
+                >
+                <span class="search-icon">🔍</span>
+            </div>
+
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="filterComodo">Cômodo</label>
+                    <select id="filterComodo">
+                        <option value="">Todos os cômodos</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filterCategoria">Categoria</label>
+                    <select id="filterCategoria">
+                        <option value="">Todas as categorias</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filterPrioridade">Prioridade</label>
+                    <select id="filterPrioridade">
+                        <option value="">Todas as prioridades</option>
+                        <option value="Alta">Alta</option>
+                        <option value="Média">Média</option>
+                        <option value="Baixa">Baixa</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats">
+            <div class="stats-content">
+                <div class="stat-item">
+                    <div class="stat-number" id="totalItems">0</div>
+                    <div class="stat-label">Total de Itens</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="foundItems">0</div>
+                    <div class="stat-label">Encontrados</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="results">
+            <div class="results-header">
+                <div class="results-count" id="resultsCount">Carregando...</div>
+            </div>
+            <div id="resultsList"></div>
+        </div>
+    </div>
+
+    <script>
+        let allItems = [];
+
+        // Load data
+        async function loadData() {
+            try {
+                const response = await fetch('catalogo_dados.json');
+                allItems = await response.json();
+
+                // Populate filters
+                populateFilters();
+
+                // Update stats
+                document.getElementById('totalItems').textContent = allItems.length;
+
+                // Display all items initially
+                displayResults(allItems);
+            } catch (error) {
+                console.error('Erro ao carregar dados:', error);
+                document.getElementById('resultsList').innerHTML =
+                    '<div class="no-results"><div class="no-results-icon">❌</div><p>Erro ao carregar dados. Certifique-se de que o arquivo catalogo_dados.json está no mesmo diretório.</p></div>';
+            }
+        }
+
+        // Populate filter dropdowns
+        function populateFilters() {
+            // Get unique values
+            const comodos = [...new Set(allItems.map(item => item.comodo).filter(Boolean))].sort();
+            const categorias = [...new Set(allItems.map(item => item.categoria).filter(Boolean))].sort();
+
+            // Populate comodo filter
+            const comodoSelect = document.getElementById('filterComodo');
+            comodos.forEach(comodo => {
+                const option = document.createElement('option');
+                option.value = comodo;
+                option.textContent = comodo;
+                comodoSelect.appendChild(option);
+            });
+
+            // Populate categoria filter
+            const categoriaSelect = document.getElementById('filterCategoria');
+            categorias.forEach(categoria => {
+                const option = document.createElement('option');
+                option.value = categoria;
+                option.textContent = categoria;
+                categoriaSelect.appendChild(option);
+            });
+        }
+
+        // Search and filter
+        function searchAndFilter() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const comodoFilter = document.getElementById('filterComodo').value;
+            const categoriaFilter = document.getElementById('filterCategoria').value;
+            const prioridadeFilter = document.getElementById('filterPrioridade').value;
+
+            let filtered = allItems.filter(item => {
+                // Search term
+                const matchesSearch = !searchTerm ||
+                    (item.descricao && item.descricao.toLowerCase().includes(searchTerm)) ||
+                    (item.caixa && item.caixa.toLowerCase().includes(searchTerm)) ||
+                    (item.categoria && item.categoria.toLowerCase().includes(searchTerm)) ||
+                    (item.comodo && item.comodo.toLowerCase().includes(searchTerm)) ||
+                    (item.observacoes && item.observacoes.toLowerCase().includes(searchTerm));
+
+                // Filters
+                const matchesComodo = !comodoFilter || item.comodo === comodoFilter;
+                const matchesCategoria = !categoriaFilter || item.categoria === categoriaFilter;
+                const matchesPrioridade = !prioridadeFilter || item.prioridade === prioridadeFilter;
+
+                return matchesSearch && matchesComodo && matchesCategoria && matchesPrioridade;
+            });
+
+            displayResults(filtered);
+        }
+
+        // Display results
+        function displayResults(items) {
+            const resultsList = document.getElementById('resultsList');
+            const resultsCount = document.getElementById('resultsCount');
+            const foundItems = document.getElementById('foundItems');
+
+            foundItems.textContent = items.length;
+
+            if (items.length === 0) {
+                resultsCount.textContent = 'Nenhum item encontrado';
+                resultsList.innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-icon">📭</div>
+                        <p>Nenhum item encontrado com esses critérios.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            resultsCount.textContent = `${items.length} ${items.length === 1 ? 'item encontrado' : 'itens encontrados'}`;
+
+            resultsList.innerHTML = items.map(item => {
+                const priorityClass = item.prioridade ? item.prioridade.toLowerCase() : 'media';
+                return `
+                    <div class="item-card ${priorityClass}">
+                        <div class="item-header">
+                            <span class="item-caixa">${item.caixa || 'Sem caixa'}</span>
+                            <span class="item-priority priority-${priorityClass}">
+                                ${item.prioridade || 'Média'}
+                            </span>
+                        </div>
+                        <div class="item-description">
+                            ${item.descricao || 'Sem descrição'}
+                        </div>
+                        <div class="item-meta">
+                            ${item.comodo ? `<span class="meta-tag"><span class="meta-icon">📍</span>${item.comodo}</span>` : ''}
+                            ${item.categoria ? `<span class="meta-tag"><span class="meta-icon">🏷️</span>${item.categoria}</span>` : ''}
+                            ${item.observacoes ? `<span class="meta-tag"><span class="meta-icon">📝</span>${item.observacoes}</span>` : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', searchAndFilter);
+        document.getElementById('filterComodo').addEventListener('change', searchAndFilter);
+        document.getElementById('filterCategoria').addEventListener('change', searchAndFilter);
+        document.getElementById('filterPrioridade').addEventListener('change', searchAndFilter);
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>

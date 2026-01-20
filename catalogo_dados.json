@@ -1,0 +1,3490 @@
+[
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Camisetas manga curta",
+    "descricao": "Camisetas casuais de verão",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Regatas",
+    "descricao": "Regatas para uso diário",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Camisetas esportivas",
+    "descricao": "Camisetas para atividades físicas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Shorts esportivos",
+    "descricao": "Shorts para esporte e lazer",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Bermudas",
+    "descricao": "Bermudas casuais",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Uniforme escolar (verão)",
+    "descricao": "Bermudas e camisetas de uniforme de verão",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Natação",
+    "descricao": "Touca de natação e sunga",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Proteção solar",
+    "descricao": "Camiseta com proteção UV",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Agasalhos leves",
+    "descricao": "Colete e corta-vento",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9",
+    "categoria": "Calças",
+    "descricao": "Calça casual",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 10",
+    "categoria": "Calças de inverno",
+    "descricao": "Calças para frio",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 10",
+    "categoria": "Camisetas manga comprida",
+    "descricao": "Camisetas de inverno",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 10",
+    "categoria": "Casacos",
+    "descricao": "Casacos de inverno",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 10",
+    "categoria": "Jaquetas",
+    "descricao": "Jaquetas para frio",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 10",
+    "categoria": "Moletom (uniforme)",
+    "descricao": "Moletom de uniforme escolar de inverno",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 10",
+    "categoria": "Calças (uniforme inverno)",
+    "descricao": "Calças de uniforme escolar de inverno",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 10",
+    "categoria": "Camisetas manga comprida (uniforme)",
+    "descricao": "Camisetas de uniforme escolar de inverno",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 11",
+    "categoria": "Casacos de inverno",
+    "descricao": "Casacos adicionais para frio",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 11",
+    "categoria": "Jaquetas de inverno",
+    "descricao": "Jaquetas adicionais para frio",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 11",
+    "categoria": "Acessórios de viagem",
+    "descricao": "Apoio para a cabeça (viagem)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 12",
+    "categoria": "Roupa de cama",
+    "descricao": "Lençóis e fronhas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 12",
+    "categoria": "Toalhas",
+    "descricao": "Toalhas de banho",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 12",
+    "categoria": "Coberta",
+    "descricao": "Coberta para cama",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 13",
+    "categoria": "Materiais de pintura",
+    "descricao": "Pincéis e guache",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 13",
+    "categoria": "Corte e precisão",
+    "descricao": "Estilete e tesoura",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 13",
+    "categoria": "Colas",
+    "descricao": "Cola colorida",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 13",
+    "categoria": "Fitas",
+    "descricao": "Durex e fitas em geral",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 13",
+    "categoria": "Amarração",
+    "descricao": "Barbante",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 13",
+    "categoria": "Identificação",
+    "descricao": "Etiquetas e etiquetas adesivas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Fixação",
+    "descricao": "Lacres plásticos",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Elásticos",
+    "descricao": "Elásticos de dinheiro/banco",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Cola quente",
+    "descricao": "Pistola de cola quente",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Cola quente",
+    "descricao": "Refis de cola quente",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Artesanato",
+    "descricao": "EVA em letras",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Artesanato",
+    "descricao": "Palitos de churrasco",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Artesanato",
+    "descricao": "Palitos de picolé",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 14",
+    "categoria": "Artesanato",
+    "descricao": "Canudos de papel coloridos",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Artesanato",
+    "descricao": "Prendedores de roupa para artesanato",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Escrita",
+    "descricao": "Lápis de escrita e lápis infinito",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Desenho",
+    "descricao": "Canetinhas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Artesanato",
+    "descricao": "Olhos para artesanato",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Educativo",
+    "descricao": "Letras e números em ímã",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Papelaria",
+    "descricao": "Clipes de papel e grampos de grampeador",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Desenho",
+    "descricao": "Giz de cera pequeno",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Desenho",
+    "descricao": "Giz de cera grande em formato de caneta",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Escrita",
+    "descricao": "Canetas Sharp",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Desenho",
+    "descricao": "Giz de cera infinito",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Artesanato",
+    "descricao": "Massinha de modelar",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Papelaria",
+    "descricao": "Borracha e apontador",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Papelaria",
+    "descricao": "Caderninhos de anotação",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Quadro branco",
+    "descricao": "Canetas para quadro branco (vermelha, azul e preta)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Quadro branco",
+    "descricao": "Apagador para quadro branco",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Quadro branco",
+    "descricao": "Pincel atômico azul",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Quadro branco",
+    "descricao": "Ímãs para quadro branco",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Desenho",
+    "descricao": "Lápis de cor",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Escrita",
+    "descricao": "Canetas marca-texto",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Escrita",
+    "descricao": "Corretivo líquido",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Escrita",
+    "descricao": "Caneta azul temática de astronauta",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Corte e precisão",
+    "descricao": "Tesoura vermelha",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 15",
+    "categoria": "Papelaria",
+    "descricao": "Apontador temático de astronauta",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Colas",
+    "descricao": "Cola líquida comum",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Colas",
+    "descricao": "Cola bastão",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Colas",
+    "descricao": "Cola branca Tenaz",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Colas",
+    "descricao": "Cola para isopor e EVA",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Papelaria",
+    "descricao": "Envelopes pequenos (vermelho, azul e branco)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Papelaria",
+    "descricao": "Grampeador",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Geometria",
+    "descricao": "Régua",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Geometria",
+    "descricao": "Transferidor",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Geometria",
+    "descricao": "Esquadro",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Geometria",
+    "descricao": "Régua de formas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Adesivos",
+    "descricao": "Cartela de adesivos do Stumble Guys",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Organização",
+    "descricao": "Estojo vermelho Cool Kid",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Desenho",
+    "descricao": "Lápis de cor (extras)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Desenho",
+    "descricao": "Canetinhas (extras)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Escrita",
+    "descricao": "Caneta vermelha de ponta fina",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Escrita",
+    "descricao": "Marca-texto verde",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 16",
+    "categoria": "Eletrônicos",
+    "descricao": "Lanterna USB",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Álbum de fotos",
+    "descricao": "Álbum de fotografias da Amanda (infância)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Álbum de fotos",
+    "descricao": "Álbum de fotografias do Bento – aniversário de 6 anos",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Álbum de fotos",
+    "descricao": "Álbum de ensaio fotográfico de Natal",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Livro de fotografia",
+    "descricao": "Livro de fotos da Avenida Paulista",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Dicionários",
+    "descricao": "Mini dicionário de inglês",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Dicionários",
+    "descricao": "Mini dicionário de língua portuguesa",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Livro de colorir",
+    "descricao": "Livros de colorir Bob Goods (2 unidades)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Livro afetivo",
+    "descricao": "Livro para o Bento escrever para o pai",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Cadernos",
+    "descricao": "Dois cadernos sem uso (80 folhas)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno",
+    "descricao": "Caderno universitário capa dura costurado do Bento",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno presente",
+    "descricao": "Caderno com capa de Corgi (presente da Mariana)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno",
+    "descricao": "Caderno sem pauta",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno",
+    "descricao": "Caderno pautado",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno",
+    "descricao": "Caderno não pautado DarkSide",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno",
+    "descricao": "Caderno pautado Cícero",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno reutilizável",
+    "descricao": "Caderno inteligente",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Bloco de notas",
+    "descricao": "Bloco de anotações de tarefas",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Planner",
+    "descricao": "Planner diário",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Bloco de desenho",
+    "descricao": "Bloco de desenho",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Caderno de referência",
+    "descricao": "Caderno com anotações do Festival Fronteira",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Papel criativo",
+    "descricao": "Folhas para origami",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Papel especial",
+    "descricao": "Papel transfer para tecido claro e escuro",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Instruções",
+    "descricao": "Manual de montagem do Lego Van Gogh",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Jogo",
+    "descricao": "Jogo Dobble – edição TAG Livros",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Jogo & acessórios",
+    "descricao": "Dado do jogo \"Isso é Vida\" (Desagenda)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Calendário",
+    "descricao": "Calendário 2026 da TAG Livros",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Kits & brindes",
+    "descricao": "Saquinho da Desagenda com brindes",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Kits & brindes",
+    "descricao": "Saquinho da Desagenda 2025 (vazio)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Imãs",
+    "descricao": "Ímãs de geladeira (todos)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Imãs",
+    "descricao": "Ímãs do mural do escritório",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Imãs",
+    "descricao": "Ímãs decorativos (extras)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Decoração",
+    "descricao": "Quadro da Bahia (Salvador)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Decoração",
+    "descricao": "Duas molduras de gesso do Beco do Batman (SP)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Decoração",
+    "descricao": "Frases decorativas de autoras femininas",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Organização",
+    "descricao": "Bloco de post-it com suporte",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Organização",
+    "descricao": "Dois copos porta-canetas DarkSide",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Organização",
+    "descricao": "Dois copos porta-objetos (itens do Atacama)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Pasta do Bento",
+    "descricao": "Pasta azul com materiais importantes do Bento (pôsteres de desenho, jogos de papel, desenho do Celopax e itens do Gravity Falls)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Pasta de desenho",
+    "descricao": "Pasta preta grande com folhas de desenho do Bento (gramatura grossa, folhas pretas, A4 e A4 azuis)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Pasta escolar",
+    "descricao": "Pasta transparente com trabalhinhos escolares do Bento (2025): mapa do tesouro em inglês e álbum de figurinhas da turma",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Escrita",
+    "descricao": "Canetas esferográficas comuns (diversas cores)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Escrita",
+    "descricao": "Caneta marca-texto laranja",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Escrita",
+    "descricao": "Caneta vermelha de ponta fina",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Escrita",
+    "descricao": "Jogo de canetas Stabilo tons pastéis",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Escrita",
+    "descricao": "Jogo de canetas coloridas Faber-Castell ponta fina",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Escrita",
+    "descricao": "Lapiseira",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Escrita",
+    "descricao": "Lápis",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Desenho",
+    "descricao": "Jogo de 24 lápis de cor SuperSoft Faber-Castell (novo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Papelaria",
+    "descricao": "Borracha",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Papelaria",
+    "descricao": "Caixinha de grafite 0,5",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Colas",
+    "descricao": "Super Bonder",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Colas",
+    "descricao": "Tec Bond cola universal",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Geometria",
+    "descricao": "Régua",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Quadro branco",
+    "descricao": "Quadro branco pequeno de mesa",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Ferramentas",
+    "descricao": "Trena",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Ferramentas",
+    "descricao": "Chave de fenda pequena",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Ferramentas",
+    "descricao": "Chave Philips pequena",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Documentos & identificação",
+    "descricao": "Crachás empresariais (inclui crachá da Gupy)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 17",
+    "categoria": "Documentos pessoais",
+    "descricao": "Papéis com anotações de treino de natação do Rodrigo",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 18",
+    "categoria": "Artesanato",
+    "descricao": "Quadro bordado do cachorro (em andamento)",
+    "comodo": "Escritório",
+    "prioridade": "Baixa",
+    "observacoes": "Projetos criativos; manter seca; não empilhar peso"
+  },
+  {
+    "caixa": "Caixa 18",
+    "categoria": "Artesanato",
+    "descricao": "Linhas de bordado",
+    "comodo": "Escritório",
+    "prioridade": "Baixa",
+    "observacoes": "Manter seca"
+  },
+  {
+    "caixa": "Caixa 18",
+    "categoria": "Artesanato",
+    "descricao": "Algodão cru para bordado",
+    "comodo": "Escritório",
+    "prioridade": "Baixa",
+    "observacoes": "Manter seca"
+  },
+  {
+    "caixa": "Caixa 18",
+    "categoria": "Artesanato",
+    "descricao": "Caderno de pontos",
+    "comodo": "Escritório",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 18",
+    "categoria": "Artesanato",
+    "descricao": "Projeto amigurumi Harry Potter",
+    "comodo": "Escritório",
+    "prioridade": "Baixa",
+    "observacoes": "Manter seca"
+  },
+  {
+    "caixa": "Caixa 18",
+    "categoria": "Artesanato",
+    "descricao": "Agulha(s) de crochê",
+    "comodo": "Escritório",
+    "prioridade": "Baixa",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 18",
+    "categoria": "Artesanato",
+    "descricao": "Tecidos para ponto cruz",
+    "comodo": "Escritório",
+    "prioridade": "Baixa",
+    "observacoes": "Manter seca"
+  },
+  {
+    "caixa": "Caixa 19",
+    "categoria": "Pet",
+    "descricao": "Roupas do cachorro",
+    "comodo": "Área Social",
+    "prioridade": "Média",
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 19",
+    "categoria": "Pet",
+    "descricao": "Labirinto para alimentação",
+    "comodo": "Área Social",
+    "prioridade": "Média",
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 19",
+    "categoria": "Pet",
+    "descricao": "Bolinha nova",
+    "comodo": "Área Social",
+    "prioridade": "Média",
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 19",
+    "categoria": "Pet",
+    "descricao": "Garrafinha de água",
+    "comodo": "Área Social",
+    "prioridade": "Média",
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Jacaré",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Boné do Mário",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Kirby coelho",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Personagem Anne de pijama",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Personagem Use de pijama",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Dois ratões",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Duas capivaras",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Bluey",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Bingo",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Bichinho de pelúcia branco do Roblox",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Pedra de pelúcia",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Xicrinho de pelúcia",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Caneco de pelúcia",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 20",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Cálice do Cape Cut de pelúcia",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "Fone de ouvido da Cacau Show",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "AirPods",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "Fone de ouvido por indução óssea",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "Dois controles de videogame para encaixar em celular",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "Carregador 120W",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "Webcam",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "Mouse",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 21",
+    "categoria": "Eletrônicos",
+    "descricao": "Estojo de cabos do Bento",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+  },
+  {
+    "caixa": "Caixa 22",
+    "categoria": "Organização",
+    "descricao": "Caixas organizadoras para material escolar",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+  },
+  {
+    "caixa": "Caixa 22",
+    "categoria": "Organização",
+    "descricao": "Organizadores acrílicos",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+  },
+  {
+    "caixa": "Caixa 22",
+    "categoria": "Organização",
+    "descricao": "Prateleiras para guarda-roupa",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+  },
+  {
+    "caixa": "Caixa 22",
+    "categoria": "Organização",
+    "descricao": "Suportes diversos para organização do apartamento",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Panda",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Chikorita",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Zé Lambadeiro",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Pelúcia preta do Minecraft",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Raposinha do aniversário de 1 ano do Bento",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Scooby comedor",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "King Dice (Cuphead)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Coquito (cookie de pelúcia)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos - Pelúcias",
+    "descricao": "Almofada de pelúcia do Harry Potter",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos",
+    "descricao": "Tiro ao alvo de velcro",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos",
+    "descricao": "Astronauta Zoom (brinquedo decorativo)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos",
+    "descricao": "Dois robôs de luta com controle remoto",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 23",
+    "categoria": "Brinquedos",
+    "descricao": "Avião do Donkey Kong de Lego (decoração)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Shampoo",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Sabonete",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Pasta de dente",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Escova de dentes",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Creme hidratante",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Tênis pé",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Perfume",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 24",
+    "categoria": "Higiene",
+    "descricao": "Demais itens de higiene pessoal do Bento",
+    "comodo": "Banheiro do Bento",
+    "prioridade": "Alta",
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Roupas - Uso diário",
+    "descricao": "Pijamas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Roupas - Uso diário",
+    "descricao": "Cuecas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Roupas - Uso diário",
+    "descricao": "Meias",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Roupas - Uso diário",
+    "descricao": "Bermudas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Roupas - Uso diário",
+    "descricao": "Camisetas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Roupas - Uso diário",
+    "descricao": "Moletom",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+  },
+  {
+    "caixa": "Caixa 27",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Jogo Puxa-Batatinha",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+  },
+  {
+    "caixa": "Caixa 27",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Jogo de mímicas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+  },
+  {
+    "caixa": "Caixa 27",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Pula-Macaco",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+  },
+  {
+    "caixa": "Caixa 27",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Cilada",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+  },
+  {
+    "caixa": "Caixa 27",
+    "categoria": "Jogos e Atividades",
+    "descricao": "É Lógico",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+  },
+  {
+    "caixa": "Caixa 27",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Super Banco Imobiliário",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+  },
+  {
+    "caixa": "Caixa 28",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Jogo da Duca",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+  },
+  {
+    "caixa": "Caixa 28",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Cara a Cara",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+  },
+  {
+    "caixa": "Caixa 28",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Verdade ou Desafio",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+  },
+  {
+    "caixa": "Caixa 28",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Kit de mágica",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+  },
+  {
+    "caixa": "Caixa 28",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Imagem & Ação Júnior",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+  },
+  {
+    "caixa": "Caixa 28",
+    "categoria": "Jogos e Atividades",
+    "descricao": "Kit de bordado do sistema solar",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+  },
+  {
+    "caixa": "Caixa 28",
+    "categoria": "Acessórios de banho",
+    "descricao": "Mangueira da banheira",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+  },
+  {
+    "caixa": "Caixa 29",
+    "categoria": "Calçados",
+    "descricao": "Tênis do Bento",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": "Prioridade alta de abertura; organizar próximo ao guarda-roupa"
+  },
+  {
+    "caixa": "Caixa 30",
+    "categoria": "Jogos de Cartas",
+    "descricao": "Jogos de cartas variados",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Baixa",
+    "observacoes": "Pode abrir após organização inicial; manter agrupados"
+  },
+  {
+    "caixa": "Caixa 31",
+    "categoria": "Organização",
+    "descricao": "Organizadores acrílicos e itens de organização diversos",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Abrir durante a organização dos armários e prateleiras"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Big Nate Arrasou",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Cozinha Só para Um (Rita Lobo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Todas as Cestas (Paola Carosella)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Mocotó: O Pai e o Filho Restaurante",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Cozinha Prática (Rita Lobo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Cozinha Quatro Mãos (Rita Lobo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Panelinha: Receitas que Funcionam (Rita Lobo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Jujutsu Kaisen – Vol. 2",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Livros",
+    "descricao": "Um Garoto Chamado Roberto (Gabriel Pensador)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Memória esportiva",
+    "descricao": "Porta-retrato com medalha meia maratona New Balance",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Memória esportiva",
+    "descricao": "Medalha meia maratona de Porto Alegre",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Fotografia",
+    "descricao": "Álbum de fotos Instax",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Fotografia",
+    "descricao": "Álbum de fotografias recentes",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Eletrônicos",
+    "descricao": "MacBook Pro do Bento",
+    "comodo": "Escritório",
+    "prioridade": "Alta",
+    "observacoes": "Livros e itens de memória; CUIDADO - eletrônico valioso"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Eletrônicos",
+    "descricao": "MacBook Air do Bento (quebrado)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Decoração / Memória afetiva",
+    "descricao": "Quadro de pintura da família (presente para o Rodrigo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Decoração / Memória afetiva",
+    "descricao": "Suporte de madeira com fotos (presente de aniversário do Rodrigo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Decoração / Viagem",
+    "descricao": "Azulejos de Japaratinga",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Brinquedo / Lúdico",
+    "descricao": "Legão",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Memória / Viagem",
+    "descricao": "Fita de Nosso Senhor do Bonfim",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Brinquedo / Montagem",
+    "descricao": "Lego câmera fotográfica (meio desmontado)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Memória / Viagem",
+    "descricao": "Bandeira com fita do Atacama",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Memória afetiva",
+    "descricao": "Envelope com cartinha de Natal para o Papai Noel",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 32",
+    "categoria": "Jogo / Lúdico",
+    "descricao": "Quebra-cabeça de Salvador (em montagem)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Livros e itens de memória"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Pintura em tecido",
+    "descricao": "Tintas para pintura em tecido",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Pintura em tecido",
+    "descricao": "Projeto de pintura em tecido em andamento",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Pintura em tecido",
+    "descricao": "Pincéis para pintura",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Têxtil",
+    "descricao": "Toalhinha para pintura",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Aromas",
+    "descricao": "Velas",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Aromaterapia",
+    "descricao": "Óleos essenciais",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Aromas",
+    "descricao": "Incensos",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Ferramentas",
+    "descricao": "Fita métrica",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Ferramentas",
+    "descricao": "Estilete",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Ferramentas",
+    "descricao": "Refil de estilete",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Artesanato e aromaterapia"
+  },
+  {
+    "caixa": "Caixa 34",
+    "categoria": "Banho",
+    "descricao": "Espumas de banho",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
+    "caixa": "Caixa 34",
+    "categoria": "Banho",
+    "descricao": "Sais de banho",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
+    "caixa": "Caixa 34",
+    "categoria": "Beleza",
+    "descricao": "Produtos de beleza em geral",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
+    "caixa": "Caixa 34",
+    "categoria": "Beleza",
+    "descricao": "Body splash",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
+    "caixa": "Caixa 34",
+    "categoria": "Cabelos",
+    "descricao": "Creme para pentear",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
+    "caixa": "Caixa 34",
+    "categoria": "Skincare",
+    "descricao": "Creme facial",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
+    "caixa": "Caixa 35",
+    "categoria": "Fitness",
+    "descricao": "Estação de equilíbrio Domyos",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Equipamentos de fitness e iluminação"
+  },
+  {
+    "caixa": "Caixa 35",
+    "categoria": "Fitness",
+    "descricao": "Bomba de encher bola",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Equipamentos de fitness e iluminação"
+  },
+  {
+    "caixa": "Caixa 35",
+    "categoria": "Iluminação",
+    "descricao": "Luminária de mesa",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Equipamentos de fitness e iluminação"
+  },
+  {
+    "caixa": "Caixa 35",
+    "categoria": "Fitness",
+    "descricao": "Rolinho para abdominal",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": "Equipamentos de fitness e iluminação"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido H&M comprado no Uruguai",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido pretinho básico da Yukon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Macacão jeans da Yukon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo de alça lilás",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo verde",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo de oncinha",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo de coração colorido",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo de alça azul turquesa",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido azul listrado",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido midi preto de bolinhas",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido xadrez vermelho e preto da Yukon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido lilás vichy",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo de alça rosa",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido de alça florido colorido da Yukon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo de alça preto",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Vestido midi de alça verde",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Macacão cinza da Yukon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Short azul de oncinha",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Short jeans de oncinha",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Short jeans com cinto",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Calça jeans preta",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Calça jeans azul",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Calça jeans azul escura",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 36",
+    "categoria": "Vestuário",
+    "descricao": "Calça jeans rasgadinha azul",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 37",
+    "categoria": "Vestuário",
+    "descricao": "Roupas de inverno (a catalogar)",
+    "comodo": "Suíte",
+    "prioridade": "Baixa",
+    "observacoes": "Roupas de inverno"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Macacões de ciclismo",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Vestido longo cinza de manga curta da Youcom",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Vestido da Ilha de Paquetá da FARM",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta do Rolling Stones",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta de Japaratinga",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta do Van Gogh",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta cinza do Corgi da Renner",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Calça preta da Decathlon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta preta da Yukon com estampa de Fusca",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Short curtinho da Yukon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta da Meia Maratona de Porto Alegre",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta azul da Maratona de Porto Alegre",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Short preto da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Short florido da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Short Nike Trail",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Short preto com florido da Alten",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Cropped preto",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Cropped regata nude",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Top florido da Coffee",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Top florido da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Top azul com preto da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Dois tops pretos da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Top azul e laranja da Reebok",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Top roxo da Reebok",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Top roxo da Olympikus",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Top roxo casual da Yukon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Regata rosa da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Body branco",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Blusinha cropped florida da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Bermuda Nike Pro",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Shorts roxo com rosa da Nike Trail",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Shorts estampado da Nike",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Shorts laranja e roxo da Olympikus",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta de manga curta da Sogipa",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta da corrida do Grêmio",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta da maratona de Floripa",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta da corrida do Bob Esponja",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camiseta de manga curta da Olympikus",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Blusa de alcinha da Insider",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Camisetas de algodão (todas)",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Roupão de piscina vinho",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Vestuário",
+    "descricao": "Dois pijamas da Hope",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Roupas"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Acessórios",
+    "descricao": "Boné Jordan",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Acessórios"
+  },
+  {
+    "caixa": "Caixa 38",
+    "categoria": "Acessórios",
+    "descricao": "Boné preto da Decathlon",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": "Acessórios"
+  },
+  {
+    "caixa": "Caixa 39",
+    "categoria": "Fitness",
+    "descricao": "Bands elásticas para exercício (CrossFit)",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 39",
+    "categoria": "Fitness",
+    "descricao": "Elásticos para treino",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 39",
+    "categoria": "Medalhas",
+    "descricao": "Medalhas do ano passado",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": "Recordações"
+  },
+  {
+    "caixa": "Caixa 39",
+    "categoria": "Medalhas",
+    "descricao": "Outras medalhas (Amanda e Rodrigo)",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": "Recordações"
+  },
+  {
+    "caixa": "Caixa 39",
+    "categoria": "Acessórios",
+    "descricao": "Armação de óculos verde da Guder",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 40",
+    "categoria": "Organização",
+    "descricao": "Organizadores de acrílico",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 40",
+    "categoria": "Organização",
+    "descricao": "Outros organizadores (diversos)",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Produtos de Limpeza",
+    "descricao": "Refil de produtos de limpeza",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Produtos de Limpeza",
+    "descricao": "Refil de veneno",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Eletrodomésticos",
+    "descricao": "Ferro de passar",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Eletrodomésticos",
+    "descricao": "Acessórios do ferro de passar",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Organização",
+    "descricao": "Sacos de lavagem",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Eletrodomésticos",
+    "descricao": "Máquina de lavar portátil",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Eletrodomésticos",
+    "descricao": "Acessórios da máquina de lavar portátil",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 74",
+    "categoria": "Organização",
+    "descricao": "Lixa de tapete de pedra de diatomita",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 79",
+    "categoria": "Higiene Pessoal",
+    "descricao": "Produtos de higiene do Rodrigo",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 79",
+    "categoria": "Higiene Pessoal",
+    "descricao": "Protetor solar",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 79",
+    "categoria": "Higiene Pessoal",
+    "descricao": "Shampoo Johnson & Johnson",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 79",
+    "categoria": "Higiene Pessoal",
+    "descricao": "Barbeadores",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 79",
+    "categoria": "Higiene Pessoal",
+    "descricao": "Cortadores de unha",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Produtos de Limpeza",
+    "descricao": "Panos de chão",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Produtos de Limpeza",
+    "descricao": "Perfex",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Pet",
+    "descricao": "Coleiras",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": "Corgi"
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Pet",
+    "descricao": "Tapete do corgi",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": "Corgi"
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Pet",
+    "descricao": "Meias do corgi",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": "Corgi"
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Panos de prato",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Pet",
+    "descricao": "Sacos cata-caca do corgi",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": "Corgi"
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Produtos de Limpeza",
+    "descricao": "Detergente de lavar louça",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Produtos de Limpeza",
+    "descricao": "Alvejante",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Garrafas de água genéricas",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Copos plásticos",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Duas caramanholas Camelbak",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Garrafa d'água do Shopping Total",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Formas de silicone",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Panos de prato chiques",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 128",
+    "categoria": "Cozinha",
+    "descricao": "Mandolins",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 129",
+    "categoria": "Entretenimento",
+    "descricao": "Quebra-cabeças",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 129",
+    "categoria": "Entretenimento",
+    "descricao": "Cola para quebra-cabeças",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 129",
+    "categoria": "Eletrodomésticos",
+    "descricao": "Base com rodas da máquina de lavar",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 129",
+    "categoria": "Organização",
+    "descricao": "Etiquetadora Brother",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 129",
+    "categoria": "Ferramentas",
+    "descricao": "Parafusadeira a bateria",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Cabos de energia",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Película iPhone 15 Pro Max",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Cabo HDMI",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Carregadores de pilha",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Embalagens",
+    "descricao": "Caixa do iPhone da Amanda",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Embalagens",
+    "descricao": "Caixa Polar Loop",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Adaptadores de tomada",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Controle universal sem fio",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Carregador sem fio",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Acessórios",
+    "descricao": "Thumb grip Steam Deck",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Acessórios",
+    "descricao": "Base de microfone (Rodrigo)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Mouse Logitech MX Anywhere",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Baterias CR2025",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 152",
+    "categoria": "Eletrônicos",
+    "descricao": "Baterias CR2032",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 301",
+    "categoria": "Roupa de Cama e Banho",
+    "descricao": "Toalhas de banho",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 301",
+    "categoria": "Roupa de Cama e Banho",
+    "descricao": "Toalhas de rosto",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Roupa de Cama e Banho",
+    "descricao": "Roupa de cama",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 399",
+    "categoria": "Diversos",
+    "descricao": "Itens da primeira noite",
+    "comodo": "Geral",
+    "prioridade": "Alta",
+    "observacoes": "Primeira noite"
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Computadores",
+    "descricao": "Caixa de placa-mãe",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Jogos e Mídia",
+    "descricao": "Jogos físicos",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Jogos e Mídia",
+    "descricao": "Blu-ray Star Wars",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Computadores",
+    "descricao": "Caixa de GPU",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Computadores",
+    "descricao": "Caixa de CPU",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Acessórios e caixas de cubo mágico",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Computadores",
+    "descricao": "RX 480 (na caixa da RTX 4070)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Acessórios",
+    "descricao": "Bag de lente / objetiva",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Computadores",
+    "descricao": "Teclado Ducky TKL (case Pro X TKL)",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Acessórios",
+    "descricao": "Hard case Ugreen",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Jogos e Mídia",
+    "descricao": "Caixa do Switch 2",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 749",
+    "categoria": "Computadores",
+    "descricao": "Teclado Corsair Strafe RGB ABNT",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1702",
+    "categoria": "Eletrônicos",
+    "descricao": "Filtros de linha",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1702",
+    "categoria": "Eletrônicos",
+    "descricao": "Power cubes",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1702",
+    "categoria": "Eletrônicos",
+    "descricao": "Fonte da soundbar",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1702",
+    "categoria": "Acessórios",
+    "descricao": "Suporte da soundbar",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "BrickHeadz Encanto",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Câmeras de LEGO",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Recordações",
+    "descricao": "Guarda-chuva de frevo",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Recordações",
+    "descricao": "Medalhas",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "LEGO macaco Kong",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "LEGO macaco primo do Tupac",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "LEGO macaco de boné no carrinho",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "LEGO topeira estranha",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Kirby Carmen Miranda",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Funko Satoru Gojo",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Bonecos de Jujutsu Kaisen",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Mario Kart vestido de rata",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Bonecos do Bob Esponja",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Boneco Harry Potter japonês 1",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Boneco Harry Potter japonês 2",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 1948",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "BrickHeadz Batman (Feira da Fruta)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 3501",
+    "categoria": "Eletrônicos",
+    "descricao": "Bolsas de cabos",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 3501",
+    "categoria": "Eletrônicos",
+    "descricao": "Cabos soltos",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 3501",
+    "categoria": "Eletrônicos",
+    "descricao": "Power banks",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 3501",
+    "categoria": "Eletrônicos",
+    "descricao": "Mesas digitalizadoras",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9501",
+    "categoria": "Ferramentas",
+    "descricao": "Furadeira",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9501",
+    "categoria": "Ferramentas",
+    "descricao": "Parafusadeira",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9501",
+    "categoria": "Ferramentas",
+    "descricao": "Acessórios de aspirador",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9501",
+    "categoria": "Ferramentas",
+    "descricao": "Ralo click",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 9501",
+    "categoria": "Ferramentas",
+    "descricao": "Escova de limpeza elétrica",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 29501",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "BrickHeadz Aragorn",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 29501",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "BrickHeadz Arwen Undómiel",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 29501",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Funko Pop Slash",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 29501",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Funko Pop Axl Rose",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 29501",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Hot Wheels – Naves Star Wars",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 29501",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "GooJitZu do Sonic",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 29501",
+    "categoria": "Brinquedos e Colecionáveis",
+    "descricao": "Cubos mágicos",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null
+  }
+]
