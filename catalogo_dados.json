@@ -2704,6 +2704,22 @@
     "observacoes": null
   },
   {
+    "caixa": "Caixa 41",
+    "categoria": "Organização",
+    "descricao": "Organizadores de acrílico",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 41",
+    "categoria": "Organização",
+    "descricao": "Outros organizadores (diversos)",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
     "caixa": "Caixa 74",
     "categoria": "Produtos de Limpeza",
     "descricao": "Refil de produtos de limpeza",
