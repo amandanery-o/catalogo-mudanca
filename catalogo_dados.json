@@ -1553,51 +1553,59 @@
   },
   {
     "caixa": "Caixa 25",
-    "categoria": "Roupas - Uso diário",
+    "categoria": "Vestuário infantil",
+    "descricao": "Roupas diversas do Bento (lavadas recentemente)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Vestuário infantil",
+    "descricao": "Moletons",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Vestuário infantil",
+    "descricao": "Roupas de piscina",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Vestuário infantil",
+    "descricao": "Bonés",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 25",
+    "categoria": "Vestuário infantil",
     "descricao": "Pijamas",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+    "observacoes": null
   },
   {
     "caixa": "Caixa 25",
-    "categoria": "Roupas - Uso diário",
-    "descricao": "Cuecas",
-    "comodo": "Quarto do Bento",
-    "prioridade": "Alta",
-    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
-  },
-  {
-    "caixa": "Caixa 25",
-    "categoria": "Roupas - Uso diário",
-    "descricao": "Meias",
-    "comodo": "Quarto do Bento",
-    "prioridade": "Alta",
-    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
-  },
-  {
-    "caixa": "Caixa 25",
-    "categoria": "Roupas - Uso diário",
-    "descricao": "Bermudas",
-    "comodo": "Quarto do Bento",
-    "prioridade": "Alta",
-    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
-  },
-  {
-    "caixa": "Caixa 25",
-    "categoria": "Roupas - Uso diário",
+    "categoria": "Vestuário infantil",
     "descricao": "Camisetas",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+    "observacoes": null
   },
   {
     "caixa": "Caixa 25",
-    "categoria": "Roupas - Uso diário",
-    "descricao": "Moletom",
+    "categoria": "Vestuário infantil",
+    "descricao": "Roupas esportivas",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": "Prioridade alta de abertura; separar para acesso imediato nos primeiros dias"
+    "observacoes": null
   },
   {
     "caixa": "Caixa 27",
