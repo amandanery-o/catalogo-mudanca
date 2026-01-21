@@ -3024,6 +3024,54 @@
     "observacoes": null
   },
   {
+    "caixa": "Caixa 47",
+    "categoria": "Calçados",
+    "descricao": "Chinelo Olympikus Eleva Pro Max",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 47",
+    "categoria": "Calçados",
+    "descricao": "Tênis Nano 11 (Froning)",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 47",
+    "categoria": "Calçados",
+    "descricao": "Tênis Adidas branco ZX (presente do Rodrigo)",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 47",
+    "categoria": "Calçados",
+    "descricao": "Tênis Nike Air branco com roxo",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 47",
+    "categoria": "Calçados",
+    "descricao": "Tênis Nike de placa para corrida (modelo não identificado)",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 47",
+    "categoria": "Acessórios",
+    "descricao": "Fivelas do Nike Air tipo botinha (marrom com roxo)",
+    "comodo": "Suíte",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
     "caixa": "Caixa 74",
     "categoria": "Produtos de Limpeza",
     "descricao": "Refil de produtos de limpeza",
