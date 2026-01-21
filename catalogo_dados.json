@@ -3105,8 +3105,56 @@
   },
   {
     "caixa": "Caixa 302",
-    "categoria": "Roupa de Cama e Banho",
-    "descricao": "Roupa de cama",
+    "categoria": "Têxtil",
+    "descricao": "Manta para sofá",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Têxtil",
+    "descricao": "Cobertor Damiola Miolo Wine",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Mesa posta",
+    "descricao": "Dois jogos americanos",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Têxtil",
+    "descricao": "Manta para sofá vermelha",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Banheiro",
+    "descricao": "Tapetes de banheiro",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Mesa posta",
+    "descricao": "Toalha de mesa",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Cama",
+    "descricao": "Jogo de cama",
     "comodo": "Suíte",
     "prioridade": "Média",
     "observacoes": null
