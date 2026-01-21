@@ -2088,6 +2088,14 @@
     "observacoes": "Equipamentos de fitness e iluminação"
   },
   {
+    "caixa": "Caixa 35",
+    "categoria": "Iluminação",
+    "descricao": "Luminárias de móvel USB",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
     "caixa": "Caixa 36",
     "categoria": "Vestuário",
     "descricao": "Vestido H&M comprado no Uruguai",
