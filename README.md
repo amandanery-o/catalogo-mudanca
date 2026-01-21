@@ -12,14 +12,15 @@ Sistema de busca de itens para organização de mudança residencial.
 
 ## 📊 Estatísticas
 
-- **436 itens** catalogados
+- **490 itens** catalogados
 - **214 livros** organizados
+- **34 pares de calçados** da Amanda 👟
 - Caixas numeradas de forma criativa (incluindo 29501, 1948, etc!)
 
 ## 🚀 Como usar
 
 ### Online
-Acesse: [Link do GitHub Pages será gerado após deploy]
+🌐 **Acesse:** https://amandanery-o.github.io/catalogo-mudanca/
 
 ### Local
 1. Baixe os arquivos
@@ -35,9 +36,9 @@ Acesse: [Link do GitHub Pages será gerado após deploy]
 
 ## 🎨 Prioridades
 
-- 🟨 **Alta** (95 itens) - Primeira noite, roupas essenciais
-- 🟦 **Média** (272 itens) - Itens importantes mas não urgentes
-- ⬜ **Baixa** (69 itens) - Roupas de inverno, itens sazonais
+- 🟨 **Alta** (139 itens) - Primeira noite, roupas essenciais, calçados
+- 🟦 **Média** (281 itens) - Itens importantes mas não urgentes
+- ⬜ **Baixa** (70 itens) - Roupas de inverno, itens sazonais
 
 ## 📍 Cômodos
 
