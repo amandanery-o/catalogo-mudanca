@@ -3072,6 +3072,38 @@
     "observacoes": null
   },
   {
+    "caixa": "Caixa 48",
+    "categoria": "Aromas",
+    "descricao": "Incensos",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 48",
+    "categoria": "Aromas",
+    "descricao": "Aromatizador de ambiente",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 48",
+    "categoria": "Aromas",
+    "descricao": "Vela perfumada",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 48",
+    "categoria": "Aromaterapia",
+    "descricao": "Óleo essencial",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null
+  },
+  {
     "caixa": "Caixa 49",
     "categoria": "Itens pessoais adultos",
     "descricao": "Brinquedos íntimos (uso pessoal)",
