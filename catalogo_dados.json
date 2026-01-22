@@ -2056,6 +2056,22 @@
     "observacoes": "Produtos de banho e beleza"
   },
   {
+    "caixa": "Caixa 34",
+    "categoria": "Cabelos",
+    "descricao": "Gel cola de fixação do Bento",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
+    "caixa": "Caixa 34",
+    "categoria": "Higiene",
+    "descricao": "Redzone em creme (desodorante corporal)",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": "Produtos de banho e beleza"
+  },
+  {
     "caixa": "Caixa 35",
     "categoria": "Fitness",
     "descricao": "Estação de equilíbrio Domyos",
