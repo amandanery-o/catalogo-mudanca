@@ -12,8 +12,9 @@ Sistema de busca de itens para organização de mudança residencial.
 
 ## 📊 Estatísticas
 
-- **490 itens** catalogados
+- **723 itens** catalogados 🎉
 - **214 livros** organizados
+- **682 itens de mudança** organizados
 - **34 pares de calçados** da Amanda 👟
 - Caixas numeradas de forma criativa (incluindo 29501, 1948, etc!)
 
@@ -36,8 +37,8 @@ Sistema de busca de itens para organização de mudança residencial.
 
 ## 🎨 Prioridades
 
-- 🟨 **Alta** (139 itens) - Primeira noite, roupas essenciais, calçados
-- 🟦 **Média** (281 itens) - Itens importantes mas não urgentes
+- 🟨 **Alta** (144 itens) - Primeira noite, roupas essenciais, calçados
+- 🟦 **Média** (509 itens) - Itens importantes mas não urgentes
 - ⬜ **Baixa** (70 itens) - Roupas de inverno, itens sazonais
 
 ## 📍 Cômodos
