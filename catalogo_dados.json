@@ -3080,6 +3080,38 @@
     "observacoes": null
   },
   {
+    "caixa": "Caixa 50",
+    "categoria": "Medicamentos",
+    "descricao": "Dilatador nasal",
+    "comodo": "Banheiro",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 50",
+    "categoria": "Organização",
+    "descricao": "Porta-cápsula",
+    "comodo": "Banheiro",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 50",
+    "categoria": "Medicamentos",
+    "descricao": "Pomada anti-inflamatória",
+    "comodo": "Banheiro",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
+    "caixa": "Caixa 50",
+    "categoria": "Primeiros socorros",
+    "descricao": "Curativos",
+    "comodo": "Banheiro",
+    "prioridade": "Alta",
+    "observacoes": null
+  },
+  {
     "caixa": "Caixa 74",
     "categoria": "Produtos de Limpeza",
     "descricao": "Refil de produtos de limpeza",
