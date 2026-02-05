@@ -299,6 +299,12 @@
 
             <div class="filters">
                 <div class="filter-group">
+                    <label for="filterLocal">Local</label>
+                    <select id="filterLocal">
+                        <option value="">Todos os locais</option>
+                    </select>
+                </div>
+                <div class="filter-group">
                     <label for="filterComodo">Cômodo</label>
                     <select id="filterComodo">
                         <option value="">Todos os cômodos</option>
@@ -379,8 +385,18 @@
         // Populate filter dropdowns
         function populateFilters() {
             // Get unique values
+            const locais = [...new Set(allItems.map(item => item.local).filter(Boolean))].sort();
             const comodos = [...new Set(allItems.map(item => item.comodo).filter(Boolean))].sort();
             const categorias = [...new Set(allItems.map(item => item.categoria).filter(Boolean))].sort();
+
+            // Populate local filter
+            const localSelect = document.getElementById('filterLocal');
+            locais.forEach(local => {
+                const option = document.createElement('option');
+                option.value = local;
+                option.textContent = local;
+                localSelect.appendChild(option);
+            });
 
             // Populate comodo filter
             const comodoSelect = document.getElementById('filterComodo');
@@ -404,6 +420,7 @@
         // Search and filter
         function searchAndFilter() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const localFilter = document.getElementById('filterLocal').value;
             const comodoFilter = document.getElementById('filterComodo').value;
             const categoriaFilter = document.getElementById('filterCategoria').value;
             const prioridadeFilter = document.getElementById('filterPrioridade').value;
@@ -415,14 +432,16 @@
                     (item.caixa && item.caixa.toLowerCase().includes(searchTerm)) ||
                     (item.categoria && item.categoria.toLowerCase().includes(searchTerm)) ||
                     (item.comodo && item.comodo.toLowerCase().includes(searchTerm)) ||
+                    (item.local && item.local.toLowerCase().includes(searchTerm)) ||
                     (item.observacoes && item.observacoes.toLowerCase().includes(searchTerm));
 
                 // Filters
+                const matchesLocal = !localFilter || item.local === localFilter;
                 const matchesComodo = !comodoFilter || item.comodo === comodoFilter;
                 const matchesCategoria = !categoriaFilter || item.categoria === categoriaFilter;
                 const matchesPrioridade = !prioridadeFilter || item.prioridade === prioridadeFilter;
 
-                return matchesSearch && matchesComodo && matchesCategoria && matchesPrioridade;
+                return matchesSearch && matchesLocal && matchesComodo && matchesCategoria && matchesPrioridade;
             });
 
             displayResults(filtered);
@@ -463,6 +482,7 @@
                             ${item.descricao || 'Sem descrição'}
                         </div>
                         <div class="item-meta">
+                            ${item.local ? `<span class="meta-tag"><span class="meta-icon">🏠</span>${item.local}</span>` : ''}
                             ${item.comodo ? `<span class="meta-tag"><span class="meta-icon">📍</span>${item.comodo}</span>` : ''}
                             ${item.categoria ? `<span class="meta-tag"><span class="meta-icon">🏷️</span>${item.categoria}</span>` : ''}
                             ${item.observacoes ? `<span class="meta-tag"><span class="meta-icon">📝</span>${item.observacoes}</span>` : ''}
@@ -474,6 +494,7 @@
 
         // Event listeners
         document.getElementById('searchInput').addEventListener('input', searchAndFilter);
+        document.getElementById('filterLocal').addEventListener('change', searchAndFilter);
         document.getElementById('filterComodo').addEventListener('change', searchAndFilter);
         document.getElementById('filterCategoria').addEventListener('change', searchAndFilter);
         document.getElementById('filterPrioridade').addEventListener('change', searchAndFilter);
