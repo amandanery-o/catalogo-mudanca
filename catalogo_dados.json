@@ -6094,5 +6094,29 @@
     "comodo": "Cozinha",
     "prioridade": "Média",
     "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 135",
+    "categoria": "Eletrônicos",
+    "descricao": "DJI Neo 2",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 135",
+    "categoria": "Eletrônicos",
+    "descricao": "GoPro",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 135",
+    "categoria": "Eletrônicos",
+    "descricao": "Fujifilm Instax",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
   }
 ]
