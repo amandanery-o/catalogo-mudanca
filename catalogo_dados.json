@@ -6142,5 +6142,21 @@
     "comodo": "Banheiro e Cozinha",
     "prioridade": "Média",
     "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Eletrônicos",
+    "descricao": "Controles remotos do ar-condicionado",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 33",
+    "categoria": "Eletrônicos",
+    "descricao": "Controles remotos das TVs",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
   }
 ]
