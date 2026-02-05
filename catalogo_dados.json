@@ -5,7 +5,8 @@
     "descricao": "Camisetas casuais de verão",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -13,7 +14,8 @@
     "descricao": "Regatas para uso diário",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -21,7 +23,8 @@
     "descricao": "Camisetas para atividades físicas",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -29,7 +32,8 @@
     "descricao": "Shorts para esporte e lazer",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -37,7 +41,8 @@
     "descricao": "Bermudas casuais",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -45,7 +50,8 @@
     "descricao": "Bermudas e camisetas de uniforme de verão",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -53,7 +59,8 @@
     "descricao": "Touca de natação e sunga",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -61,7 +68,8 @@
     "descricao": "Camiseta com proteção UV",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -69,7 +77,8 @@
     "descricao": "Colete e corta-vento",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9",
@@ -77,7 +86,8 @@
     "descricao": "Calça casual",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 10",
@@ -85,7 +95,8 @@
     "descricao": "Calças para frio",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 10",
@@ -93,7 +104,8 @@
     "descricao": "Camisetas de inverno",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 10",
@@ -101,7 +113,8 @@
     "descricao": "Casacos de inverno",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 10",
@@ -109,7 +122,8 @@
     "descricao": "Jaquetas para frio",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 10",
@@ -117,7 +131,8 @@
     "descricao": "Moletom de uniforme escolar de inverno",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 10",
@@ -125,7 +140,8 @@
     "descricao": "Calças de uniforme escolar de inverno",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 10",
@@ -133,7 +149,8 @@
     "descricao": "Camisetas de uniforme escolar de inverno",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 11",
@@ -141,7 +158,8 @@
     "descricao": "Casacos adicionais para frio",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 11",
@@ -149,7 +167,8 @@
     "descricao": "Jaquetas adicionais para frio",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 11",
@@ -157,7 +176,8 @@
     "descricao": "Apoio para a cabeça (viagem)",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 12",
@@ -165,7 +185,8 @@
     "descricao": "Lençóis e fronhas",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 12",
@@ -173,7 +194,8 @@
     "descricao": "Toalhas de banho",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 12",
@@ -181,7 +203,8 @@
     "descricao": "Coberta para cama",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 13",
@@ -189,7 +212,8 @@
     "descricao": "Pincéis e guache",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 13",
@@ -197,7 +221,8 @@
     "descricao": "Estilete e tesoura",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 13",
@@ -205,7 +230,8 @@
     "descricao": "Cola colorida",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 13",
@@ -213,7 +239,8 @@
     "descricao": "Durex e fitas em geral",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 13",
@@ -221,7 +248,8 @@
     "descricao": "Barbante",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 13",
@@ -229,7 +257,8 @@
     "descricao": "Etiquetas e etiquetas adesivas",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -237,7 +266,8 @@
     "descricao": "Lacres plásticos",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -245,7 +275,8 @@
     "descricao": "Elásticos de dinheiro/banco",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -253,7 +284,8 @@
     "descricao": "Pistola de cola quente",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -261,7 +293,8 @@
     "descricao": "Refis de cola quente",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -269,7 +302,8 @@
     "descricao": "EVA em letras",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -277,7 +311,8 @@
     "descricao": "Palitos de churrasco",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -285,7 +320,8 @@
     "descricao": "Palitos de picolé",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 14",
@@ -293,7 +329,8 @@
     "descricao": "Canudos de papel coloridos",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -301,7 +338,8 @@
     "descricao": "Prendedores de roupa para artesanato",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -309,7 +347,8 @@
     "descricao": "Lápis de escrita e lápis infinito",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -317,7 +356,8 @@
     "descricao": "Canetinhas",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -325,7 +365,8 @@
     "descricao": "Olhos para artesanato",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -333,7 +374,8 @@
     "descricao": "Letras e números em ímã",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -341,7 +383,8 @@
     "descricao": "Clipes de papel e grampos de grampeador",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -349,7 +392,8 @@
     "descricao": "Giz de cera pequeno",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -357,7 +401,8 @@
     "descricao": "Giz de cera grande em formato de caneta",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -365,7 +410,8 @@
     "descricao": "Canetas Sharp",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -373,7 +419,8 @@
     "descricao": "Giz de cera infinito",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -381,7 +428,8 @@
     "descricao": "Massinha de modelar",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -389,7 +437,8 @@
     "descricao": "Borracha e apontador",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -397,7 +446,8 @@
     "descricao": "Caderninhos de anotação",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -405,7 +455,8 @@
     "descricao": "Canetas para quadro branco (vermelha, azul e preta)",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -413,7 +464,8 @@
     "descricao": "Apagador para quadro branco",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -421,7 +473,8 @@
     "descricao": "Pincel atômico azul",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -429,7 +482,8 @@
     "descricao": "Ímãs para quadro branco",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -437,7 +491,8 @@
     "descricao": "Lápis de cor",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -445,7 +500,8 @@
     "descricao": "Canetas marca-texto",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -453,7 +509,8 @@
     "descricao": "Corretivo líquido",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -461,7 +518,8 @@
     "descricao": "Caneta azul temática de astronauta",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -469,7 +527,8 @@
     "descricao": "Tesoura vermelha",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 15",
@@ -477,7 +536,8 @@
     "descricao": "Apontador temático de astronauta",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -485,7 +545,8 @@
     "descricao": "Cola líquida comum",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -493,7 +554,8 @@
     "descricao": "Cola bastão",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -501,7 +563,8 @@
     "descricao": "Cola branca Tenaz",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -509,7 +572,8 @@
     "descricao": "Cola para isopor e EVA",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -517,7 +581,8 @@
     "descricao": "Envelopes pequenos (vermelho, azul e branco)",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -525,7 +590,8 @@
     "descricao": "Grampeador",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -533,7 +599,8 @@
     "descricao": "Régua",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -541,7 +608,8 @@
     "descricao": "Transferidor",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -549,7 +617,8 @@
     "descricao": "Esquadro",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -557,7 +626,8 @@
     "descricao": "Régua de formas",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -565,7 +635,8 @@
     "descricao": "Cartela de adesivos do Stumble Guys",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -573,7 +644,8 @@
     "descricao": "Estojo vermelho Cool Kid",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -581,7 +653,8 @@
     "descricao": "Lápis de cor (extras)",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -589,7 +662,8 @@
     "descricao": "Canetinhas (extras)",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -597,7 +671,8 @@
     "descricao": "Caneta vermelha de ponta fina",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -605,7 +680,8 @@
     "descricao": "Marca-texto verde",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 16",
@@ -613,7 +689,8 @@
     "descricao": "Lanterna USB",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -621,7 +698,8 @@
     "descricao": "Álbum de fotografias da Amanda (infância)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -629,7 +707,8 @@
     "descricao": "Álbum de fotografias do Bento – aniversário de 6 anos",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -637,7 +716,8 @@
     "descricao": "Álbum de ensaio fotográfico de Natal",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -645,7 +725,8 @@
     "descricao": "Livro de fotos da Avenida Paulista",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -653,7 +734,8 @@
     "descricao": "Mini dicionário de inglês",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -661,7 +743,8 @@
     "descricao": "Mini dicionário de língua portuguesa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -669,7 +752,8 @@
     "descricao": "Livros de colorir Bob Goods (2 unidades)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -677,7 +761,8 @@
     "descricao": "Livro para o Bento escrever para o pai",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -685,7 +770,8 @@
     "descricao": "Dois cadernos sem uso (80 folhas)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -693,7 +779,8 @@
     "descricao": "Caderno universitário capa dura costurado do Bento",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -701,7 +788,8 @@
     "descricao": "Caderno com capa de Corgi (presente da Mariana)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -709,7 +797,8 @@
     "descricao": "Caderno sem pauta",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -717,7 +806,8 @@
     "descricao": "Caderno pautado",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -725,7 +815,8 @@
     "descricao": "Caderno não pautado DarkSide",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -733,7 +824,8 @@
     "descricao": "Caderno pautado Cícero",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -741,7 +833,8 @@
     "descricao": "Caderno inteligente",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -749,7 +842,8 @@
     "descricao": "Bloco de anotações de tarefas",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -757,7 +851,8 @@
     "descricao": "Planner diário",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -765,7 +860,8 @@
     "descricao": "Bloco de desenho",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -773,7 +869,8 @@
     "descricao": "Caderno com anotações do Festival Fronteira",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -781,7 +878,8 @@
     "descricao": "Folhas para origami",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -789,7 +887,8 @@
     "descricao": "Papel transfer para tecido claro e escuro",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -797,7 +896,8 @@
     "descricao": "Manual de montagem do Lego Van Gogh",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -805,7 +905,8 @@
     "descricao": "Jogo Dobble – edição TAG Livros",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -813,7 +914,8 @@
     "descricao": "Dado do jogo \"Isso é Vida\" (Desagenda)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -821,7 +923,8 @@
     "descricao": "Calendário 2026 da TAG Livros",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -829,7 +932,8 @@
     "descricao": "Saquinho da Desagenda com brindes",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -837,7 +941,8 @@
     "descricao": "Saquinho da Desagenda 2025 (vazio)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -845,7 +950,8 @@
     "descricao": "Ímãs de geladeira (todos)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -853,7 +959,8 @@
     "descricao": "Ímãs do mural do escritório",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -861,7 +968,8 @@
     "descricao": "Ímãs decorativos (extras)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -869,7 +977,8 @@
     "descricao": "Quadro da Bahia (Salvador)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -877,7 +986,8 @@
     "descricao": "Duas molduras de gesso do Beco do Batman (SP)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -885,7 +995,8 @@
     "descricao": "Frases decorativas de autoras femininas",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -893,7 +1004,8 @@
     "descricao": "Bloco de post-it com suporte",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -901,7 +1013,8 @@
     "descricao": "Dois copos porta-canetas DarkSide",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -909,7 +1022,8 @@
     "descricao": "Dois copos porta-objetos (itens do Atacama)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -917,7 +1031,8 @@
     "descricao": "Pasta azul com materiais importantes do Bento (pôsteres de desenho, jogos de papel, desenho do Celopax e itens do Gravity Falls)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -925,7 +1040,8 @@
     "descricao": "Pasta preta grande com folhas de desenho do Bento (gramatura grossa, folhas pretas, A4 e A4 azuis)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -933,7 +1049,8 @@
     "descricao": "Pasta transparente com trabalhinhos escolares do Bento (2025): mapa do tesouro em inglês e álbum de figurinhas da turma",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -941,7 +1058,8 @@
     "descricao": "Canetas esferográficas comuns (diversas cores)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -949,7 +1067,8 @@
     "descricao": "Caneta marca-texto laranja",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -957,7 +1076,8 @@
     "descricao": "Caneta vermelha de ponta fina",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -965,7 +1085,8 @@
     "descricao": "Jogo de canetas Stabilo tons pastéis",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -973,7 +1094,8 @@
     "descricao": "Jogo de canetas coloridas Faber-Castell ponta fina",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -981,7 +1103,8 @@
     "descricao": "Lapiseira",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -989,7 +1112,8 @@
     "descricao": "Lápis",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -997,7 +1121,8 @@
     "descricao": "Jogo de 24 lápis de cor SuperSoft Faber-Castell (novo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1005,7 +1130,8 @@
     "descricao": "Borracha",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1013,7 +1139,8 @@
     "descricao": "Caixinha de grafite 0,5",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1021,7 +1148,8 @@
     "descricao": "Super Bonder",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1029,7 +1157,8 @@
     "descricao": "Tec Bond cola universal",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1037,7 +1166,8 @@
     "descricao": "Régua",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1045,7 +1175,8 @@
     "descricao": "Quadro branco pequeno de mesa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1053,7 +1184,8 @@
     "descricao": "Trena",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1061,7 +1193,8 @@
     "descricao": "Chave de fenda pequena",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1069,7 +1202,8 @@
     "descricao": "Chave Philips pequena",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1077,7 +1211,8 @@
     "descricao": "Crachás empresariais (inclui crachá da Gupy)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 17",
@@ -1085,7 +1220,8 @@
     "descricao": "Papéis com anotações de treino de natação do Rodrigo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 18",
@@ -1093,7 +1229,8 @@
     "descricao": "Quadro bordado do cachorro (em andamento)",
     "comodo": "Escritório",
     "prioridade": "Baixa",
-    "observacoes": "Projetos criativos; manter seca; não empilhar peso"
+    "observacoes": "Projetos criativos; manter seca; não empilhar peso",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 18",
@@ -1101,7 +1238,8 @@
     "descricao": "Linhas de bordado",
     "comodo": "Escritório",
     "prioridade": "Baixa",
-    "observacoes": "Manter seca"
+    "observacoes": "Manter seca",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 18",
@@ -1109,7 +1247,8 @@
     "descricao": "Algodão cru para bordado",
     "comodo": "Escritório",
     "prioridade": "Baixa",
-    "observacoes": "Manter seca"
+    "observacoes": "Manter seca",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 18",
@@ -1117,7 +1256,8 @@
     "descricao": "Caderno de pontos",
     "comodo": "Escritório",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 18",
@@ -1125,7 +1265,8 @@
     "descricao": "Projeto amigurumi Harry Potter",
     "comodo": "Escritório",
     "prioridade": "Baixa",
-    "observacoes": "Manter seca"
+    "observacoes": "Manter seca",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 18",
@@ -1133,7 +1274,8 @@
     "descricao": "Agulha(s) de crochê",
     "comodo": "Escritório",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 18",
@@ -1141,7 +1283,8 @@
     "descricao": "Tecidos para ponto cruz",
     "comodo": "Escritório",
     "prioridade": "Baixa",
-    "observacoes": "Manter seca"
+    "observacoes": "Manter seca",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 19",
@@ -1149,7 +1292,8 @@
     "descricao": "Roupas do cachorro",
     "comodo": "Área Social",
     "prioridade": "Média",
-    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 19",
@@ -1157,7 +1301,8 @@
     "descricao": "Labirinto para alimentação",
     "comodo": "Área Social",
     "prioridade": "Média",
-    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 19",
@@ -1165,7 +1310,8 @@
     "descricao": "Bolinha nova",
     "comodo": "Área Social",
     "prioridade": "Média",
-    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 19",
@@ -1173,7 +1319,8 @@
     "descricao": "Garrafinha de água",
     "comodo": "Área Social",
     "prioridade": "Média",
-    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias"
+    "observacoes": "Separar itens de uso imediato se necessário nos primeiros dias",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1181,7 +1328,8 @@
     "descricao": "Jacaré",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1189,7 +1337,8 @@
     "descricao": "Boné do Mário",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1197,7 +1346,8 @@
     "descricao": "Kirby coelho",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1205,7 +1355,8 @@
     "descricao": "Personagem Anne de pijama",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1213,7 +1364,8 @@
     "descricao": "Personagem Use de pijama",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1221,7 +1373,8 @@
     "descricao": "Dois ratões",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1229,7 +1382,8 @@
     "descricao": "Duas capivaras",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1237,7 +1391,8 @@
     "descricao": "Bluey",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1245,7 +1400,8 @@
     "descricao": "Bingo",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1253,7 +1409,8 @@
     "descricao": "Bichinho de pelúcia branco do Roblox",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1261,7 +1418,8 @@
     "descricao": "Pedra de pelúcia",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1269,7 +1427,8 @@
     "descricao": "Xicrinho de pelúcia",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1277,7 +1436,8 @@
     "descricao": "Caneco de pelúcia",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 20",
@@ -1285,7 +1445,8 @@
     "descricao": "Cálice do Cape Cut de pelúcia",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto"
+    "observacoes": "Pelúcias; pode abrir após organização inicial do quarto",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1293,7 +1454,8 @@
     "descricao": "Fone de ouvido da Cacau Show",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1301,7 +1463,8 @@
     "descricao": "AirPods",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1309,7 +1472,8 @@
     "descricao": "Fone de ouvido por indução óssea",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1317,7 +1481,8 @@
     "descricao": "Dois controles de videogame para encaixar em celular",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1325,7 +1490,8 @@
     "descricao": "Carregador 120W",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1333,7 +1499,8 @@
     "descricao": "Webcam",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1341,7 +1508,8 @@
     "descricao": "Mouse",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 21",
@@ -1349,7 +1517,8 @@
     "descricao": "Estojo de cabos do Bento",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima"
+    "observacoes": "Caixa em andamento; separar itens sensíveis e evitar peso por cima",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 22",
@@ -1357,7 +1526,8 @@
     "descricao": "Caixas organizadoras para material escolar",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 22",
@@ -1365,7 +1535,8 @@
     "descricao": "Organizadores acrílicos",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 22",
@@ -1373,7 +1544,8 @@
     "descricao": "Prateleiras para guarda-roupa",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 22",
@@ -1381,7 +1553,8 @@
     "descricao": "Suportes diversos para organização do apartamento",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários"
+    "observacoes": "Itens estruturais para organização; abrir durante a arrumação dos armários",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1389,7 +1562,8 @@
     "descricao": "Panda",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1397,7 +1571,8 @@
     "descricao": "Chikorita",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1405,7 +1580,8 @@
     "descricao": "Zé Lambadeiro",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1413,7 +1589,8 @@
     "descricao": "Pelúcia preta do Minecraft",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1421,7 +1598,8 @@
     "descricao": "Raposinha do aniversário de 1 ano do Bento",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1429,7 +1607,8 @@
     "descricao": "Scooby comedor",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1437,7 +1616,8 @@
     "descricao": "King Dice (Cuphead)",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1445,7 +1625,8 @@
     "descricao": "Coquito (cookie de pelúcia)",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1453,7 +1634,8 @@
     "descricao": "Almofada de pelúcia do Harry Potter",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1461,7 +1643,8 @@
     "descricao": "Tiro ao alvo de velcro",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1469,7 +1652,8 @@
     "descricao": "Astronauta Zoom (brinquedo decorativo)",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1477,7 +1661,8 @@
     "descricao": "Dois robôs de luta com controle remoto",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 23",
@@ -1485,7 +1670,8 @@
     "descricao": "Avião do Donkey Kong de Lego (decoração)",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa"
+    "observacoes": "Pelúcias, brinquedos leves e decorativos; revisar doações antes de fechar a caixa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1493,7 +1679,8 @@
     "descricao": "Shampoo",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1501,7 +1688,8 @@
     "descricao": "Sabonete",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1509,7 +1697,8 @@
     "descricao": "Pasta de dente",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1517,7 +1706,8 @@
     "descricao": "Escova de dentes",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1525,7 +1715,8 @@
     "descricao": "Creme hidratante",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1533,7 +1724,8 @@
     "descricao": "Tênis pé",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1541,7 +1733,8 @@
     "descricao": "Perfume",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 24",
@@ -1549,7 +1742,8 @@
     "descricao": "Demais itens de higiene pessoal do Bento",
     "comodo": "Banheiro do Bento",
     "prioridade": "Alta",
-    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento"
+    "observacoes": "PRIORIDADE MÁXIMA DE ABERTURA; levar separada e sinalizada; destinar direto ao banheiro do Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 25",
@@ -1557,7 +1751,8 @@
     "descricao": "Roupas diversas do Bento (lavadas recentemente)",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 25",
@@ -1565,7 +1760,8 @@
     "descricao": "Moletons",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 25",
@@ -1573,7 +1769,8 @@
     "descricao": "Roupas de piscina",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 25",
@@ -1581,7 +1778,8 @@
     "descricao": "Bonés",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 25",
@@ -1589,7 +1787,8 @@
     "descricao": "Pijamas",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 25",
@@ -1597,7 +1796,8 @@
     "descricao": "Camisetas",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 25",
@@ -1605,7 +1805,8 @@
     "descricao": "Roupas esportivas",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 27",
@@ -1613,7 +1814,8 @@
     "descricao": "Jogo Puxa-Batatinha",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 27",
@@ -1621,7 +1823,8 @@
     "descricao": "Jogo de mímicas",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 27",
@@ -1629,7 +1832,8 @@
     "descricao": "Pula-Macaco",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 27",
@@ -1637,7 +1841,8 @@
     "descricao": "Cilada",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 27",
@@ -1645,7 +1850,8 @@
     "descricao": "É Lógico",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 27",
@@ -1653,7 +1859,8 @@
     "descricao": "Super Banco Imobiliário",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades"
+    "observacoes": "Caixa em andamento; jogos de tabuleiro e atividades",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 28",
@@ -1661,7 +1868,8 @@
     "descricao": "Jogo da Duca",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 28",
@@ -1669,7 +1877,8 @@
     "descricao": "Cara a Cara",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 28",
@@ -1677,7 +1886,8 @@
     "descricao": "Verdade ou Desafio",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 28",
@@ -1685,7 +1895,8 @@
     "descricao": "Kit de mágica",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 28",
@@ -1693,7 +1904,8 @@
     "descricao": "Imagem & Ação Júnior",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 28",
@@ -1701,7 +1913,8 @@
     "descricao": "Kit de bordado do sistema solar",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 28",
@@ -1709,7 +1922,8 @@
     "descricao": "Mangueira da banheira",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho"
+    "observacoes": "Caixa em andamento; jogos, atividades e acessório de banho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29",
@@ -1717,7 +1931,8 @@
     "descricao": "Tênis do Bento",
     "comodo": "Quarto do Bento",
     "prioridade": "Alta",
-    "observacoes": "Prioridade alta de abertura; organizar próximo ao guarda-roupa"
+    "observacoes": "Prioridade alta de abertura; organizar próximo ao guarda-roupa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 30",
@@ -1725,7 +1940,8 @@
     "descricao": "Jogos de cartas variados",
     "comodo": "Quarto do Bento",
     "prioridade": "Baixa",
-    "observacoes": "Pode abrir após organização inicial; manter agrupados"
+    "observacoes": "Pode abrir após organização inicial; manter agrupados",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 31",
@@ -1733,7 +1949,8 @@
     "descricao": "Organizadores acrílicos e itens de organização diversos",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Abrir durante a organização dos armários e prateleiras"
+    "observacoes": "Abrir durante a organização dos armários e prateleiras",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1741,7 +1958,8 @@
     "descricao": "Big Nate Arrasou",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1749,7 +1967,8 @@
     "descricao": "Cozinha Só para Um (Rita Lobo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1757,7 +1976,8 @@
     "descricao": "Todas as Cestas (Paola Carosella)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1765,7 +1985,8 @@
     "descricao": "Mocotó: O Pai e o Filho Restaurante",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1773,7 +1994,8 @@
     "descricao": "Cozinha Prática (Rita Lobo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1781,7 +2003,8 @@
     "descricao": "Cozinha Quatro Mãos (Rita Lobo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1789,7 +2012,8 @@
     "descricao": "Panelinha: Receitas que Funcionam (Rita Lobo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1797,7 +2021,8 @@
     "descricao": "Jujutsu Kaisen – Vol. 2",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1805,7 +2030,8 @@
     "descricao": "Um Garoto Chamado Roberto (Gabriel Pensador)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1813,7 +2039,8 @@
     "descricao": "Porta-retrato com medalha meia maratona New Balance",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1821,7 +2048,8 @@
     "descricao": "Medalha meia maratona de Porto Alegre",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1829,7 +2057,8 @@
     "descricao": "Álbum de fotos Instax",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1837,7 +2066,8 @@
     "descricao": "Álbum de fotografias recentes",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1845,7 +2075,8 @@
     "descricao": "MacBook Pro do Bento",
     "comodo": "Escritório",
     "prioridade": "Alta",
-    "observacoes": "Livros e itens de memória; CUIDADO - eletrônico valioso"
+    "observacoes": "Livros e itens de memória; CUIDADO - eletrônico valioso",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1853,7 +2084,8 @@
     "descricao": "MacBook Air do Bento (quebrado)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1861,7 +2093,8 @@
     "descricao": "Quadro de pintura da família (presente para o Rodrigo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1869,7 +2102,8 @@
     "descricao": "Suporte de madeira com fotos (presente de aniversário do Rodrigo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1877,7 +2111,8 @@
     "descricao": "Azulejos de Japaratinga",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1885,7 +2120,8 @@
     "descricao": "Legão",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1893,7 +2129,8 @@
     "descricao": "Fita de Nosso Senhor do Bonfim",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1901,7 +2138,8 @@
     "descricao": "Lego câmera fotográfica (meio desmontado)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1909,7 +2147,8 @@
     "descricao": "Bandeira com fita do Atacama",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1917,7 +2156,8 @@
     "descricao": "Envelope com cartinha de Natal para o Papai Noel",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -1925,7 +2165,8 @@
     "descricao": "Quebra-cabeça de Salvador (em montagem)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Livros e itens de memória"
+    "observacoes": "Livros e itens de memória",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1933,7 +2174,8 @@
     "descricao": "Tintas para pintura em tecido",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1941,7 +2183,8 @@
     "descricao": "Projeto de pintura em tecido em andamento",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1949,7 +2192,8 @@
     "descricao": "Pincéis para pintura",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1957,7 +2201,8 @@
     "descricao": "Toalhinha para pintura",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1965,7 +2210,8 @@
     "descricao": "Velas",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1973,7 +2219,8 @@
     "descricao": "Óleos essenciais",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1981,7 +2228,8 @@
     "descricao": "Incensos",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1989,7 +2237,8 @@
     "descricao": "Fita métrica",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -1997,7 +2246,8 @@
     "descricao": "Estilete",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -2005,7 +2255,8 @@
     "descricao": "Refil de estilete",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Artesanato e aromaterapia"
+    "observacoes": "Artesanato e aromaterapia",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2013,7 +2264,8 @@
     "descricao": "Espumas de banho",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2021,7 +2273,8 @@
     "descricao": "Sais de banho",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2029,7 +2282,8 @@
     "descricao": "Produtos de beleza em geral",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2037,7 +2291,8 @@
     "descricao": "Body splash",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2045,7 +2300,8 @@
     "descricao": "Creme para pentear",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2053,7 +2309,8 @@
     "descricao": "Creme facial",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2061,7 +2318,8 @@
     "descricao": "Gel cola de fixação do Bento",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2069,7 +2327,8 @@
     "descricao": "Redzone em creme (desodorante corporal)",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2077,7 +2336,8 @@
     "descricao": "Hidratante gel refrescante Vult (2 unidades)",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2085,7 +2345,8 @@
     "descricao": "Body splash Ameixa & Flor de Baunilha Natura Spa",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2093,7 +2354,8 @@
     "descricao": "Espuma de banho",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2101,7 +2363,8 @@
     "descricao": "Máscara de argila",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2109,7 +2372,8 @@
     "descricao": "Creme para pentear Pantene",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2117,7 +2381,8 @@
     "descricao": "Sais de banho",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2125,7 +2390,8 @@
     "descricao": "Sabonete esfoliante Panvel",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2133,7 +2399,8 @@
     "descricao": "Intensiwhan Secamura (uso com secador)",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2141,7 +2408,8 @@
     "descricao": "Body splash Ameixa & Flor de Baunilha O Boticário",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2149,7 +2417,8 @@
     "descricao": "Body splash Flor de Cerejeira Sakura",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2157,7 +2426,8 @@
     "descricao": "Protetor solar spray Bove",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 34",
@@ -2165,7 +2435,8 @@
     "descricao": "Caixinha de som JBL (uso no banho)",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": "Produtos de banho e beleza"
+    "observacoes": "Produtos de banho e beleza",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 35",
@@ -2173,7 +2444,8 @@
     "descricao": "Estação de equilíbrio Domyos",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Equipamentos de fitness e iluminação"
+    "observacoes": "Equipamentos de fitness e iluminação",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 35",
@@ -2181,7 +2453,8 @@
     "descricao": "Bomba de encher bola",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Equipamentos de fitness e iluminação"
+    "observacoes": "Equipamentos de fitness e iluminação",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 35",
@@ -2189,7 +2462,8 @@
     "descricao": "Luminária de mesa",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Equipamentos de fitness e iluminação"
+    "observacoes": "Equipamentos de fitness e iluminação",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 35",
@@ -2197,7 +2471,8 @@
     "descricao": "Rolinho para abdominal",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": "Equipamentos de fitness e iluminação"
+    "observacoes": "Equipamentos de fitness e iluminação",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 35",
@@ -2205,7 +2480,8 @@
     "descricao": "Luminárias de móvel USB",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2213,7 +2489,8 @@
     "descricao": "Vestido H&M comprado no Uruguai",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2221,7 +2498,8 @@
     "descricao": "Vestido pretinho básico da Yukon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2229,7 +2507,8 @@
     "descricao": "Macacão jeans da Yukon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2237,7 +2516,8 @@
     "descricao": "Vestido longo de alça lilás",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2245,7 +2525,8 @@
     "descricao": "Vestido longo verde",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2253,7 +2534,8 @@
     "descricao": "Vestido longo de oncinha",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2261,7 +2543,8 @@
     "descricao": "Vestido longo de coração colorido",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2269,7 +2552,8 @@
     "descricao": "Vestido longo de alça azul turquesa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2277,7 +2561,8 @@
     "descricao": "Vestido azul listrado",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2285,7 +2570,8 @@
     "descricao": "Vestido midi preto de bolinhas",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2293,7 +2579,8 @@
     "descricao": "Vestido xadrez vermelho e preto da Yukon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2301,7 +2588,8 @@
     "descricao": "Vestido lilás vichy",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2309,7 +2597,8 @@
     "descricao": "Vestido longo de alça rosa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2317,7 +2606,8 @@
     "descricao": "Vestido de alça florido colorido da Yukon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2325,7 +2615,8 @@
     "descricao": "Vestido longo de alça preto",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2333,7 +2624,8 @@
     "descricao": "Vestido midi de alça verde",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2341,7 +2633,8 @@
     "descricao": "Macacão cinza da Yukon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2349,7 +2642,8 @@
     "descricao": "Short azul de oncinha",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2357,7 +2651,8 @@
     "descricao": "Short jeans de oncinha",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2365,7 +2660,8 @@
     "descricao": "Short jeans com cinto",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2373,7 +2669,8 @@
     "descricao": "Calça jeans preta",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2381,7 +2678,8 @@
     "descricao": "Calça jeans azul",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2389,7 +2687,8 @@
     "descricao": "Calça jeans azul escura",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 36",
@@ -2397,7 +2696,8 @@
     "descricao": "Calça jeans rasgadinha azul",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 37",
@@ -2405,7 +2705,8 @@
     "descricao": "Roupas de inverno (a catalogar)",
     "comodo": "Suíte",
     "prioridade": "Baixa",
-    "observacoes": "Roupas de inverno"
+    "observacoes": "Roupas de inverno",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2413,7 +2714,8 @@
     "descricao": "Macacões de ciclismo",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2421,7 +2723,8 @@
     "descricao": "Vestido longo cinza de manga curta da Youcom",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2429,7 +2732,8 @@
     "descricao": "Vestido da Ilha de Paquetá da FARM",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2437,7 +2741,8 @@
     "descricao": "Camiseta do Rolling Stones",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2445,7 +2750,8 @@
     "descricao": "Camiseta de Japaratinga",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2453,7 +2759,8 @@
     "descricao": "Camiseta do Van Gogh",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2461,7 +2768,8 @@
     "descricao": "Camiseta cinza do Corgi da Renner",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2469,7 +2777,8 @@
     "descricao": "Calça preta da Decathlon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2477,7 +2786,8 @@
     "descricao": "Camiseta preta da Yukon com estampa de Fusca",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2485,7 +2795,8 @@
     "descricao": "Short curtinho da Yukon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2493,7 +2804,8 @@
     "descricao": "Camiseta da Meia Maratona de Porto Alegre",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2501,7 +2813,8 @@
     "descricao": "Camiseta azul da Maratona de Porto Alegre",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2509,7 +2822,8 @@
     "descricao": "Short preto da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2517,7 +2831,8 @@
     "descricao": "Short florido da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2525,7 +2840,8 @@
     "descricao": "Short Nike Trail",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2533,7 +2849,8 @@
     "descricao": "Short preto com florido da Alten",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2541,7 +2858,8 @@
     "descricao": "Cropped preto",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2549,7 +2867,8 @@
     "descricao": "Cropped regata nude",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2557,7 +2876,8 @@
     "descricao": "Top florido da Coffee",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2565,7 +2885,8 @@
     "descricao": "Top florido da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2573,7 +2894,8 @@
     "descricao": "Top azul com preto da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2581,7 +2903,8 @@
     "descricao": "Dois tops pretos da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2589,7 +2912,8 @@
     "descricao": "Top azul e laranja da Reebok",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2597,7 +2921,8 @@
     "descricao": "Top roxo da Reebok",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2605,7 +2930,8 @@
     "descricao": "Top roxo da Olympikus",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2613,7 +2939,8 @@
     "descricao": "Top roxo casual da Yukon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2621,7 +2948,8 @@
     "descricao": "Regata rosa da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2629,7 +2957,8 @@
     "descricao": "Body branco",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2637,7 +2966,8 @@
     "descricao": "Blusinha cropped florida da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2645,7 +2975,8 @@
     "descricao": "Bermuda Nike Pro",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2653,7 +2984,8 @@
     "descricao": "Shorts roxo com rosa da Nike Trail",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2661,7 +2993,8 @@
     "descricao": "Shorts estampado da Nike",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2669,7 +3002,8 @@
     "descricao": "Shorts laranja e roxo da Olympikus",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2677,7 +3011,8 @@
     "descricao": "Camiseta de manga curta da Sogipa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2685,7 +3020,8 @@
     "descricao": "Camiseta da corrida do Grêmio",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2693,7 +3029,8 @@
     "descricao": "Camiseta da maratona de Floripa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2701,7 +3038,8 @@
     "descricao": "Camiseta da corrida do Bob Esponja",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2709,7 +3047,8 @@
     "descricao": "Camiseta de manga curta da Olympikus",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2717,7 +3056,8 @@
     "descricao": "Blusa de alcinha da Insider",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2725,7 +3065,8 @@
     "descricao": "Camisetas de algodão (todas)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2733,7 +3074,8 @@
     "descricao": "Roupão de piscina vinho",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2741,7 +3083,8 @@
     "descricao": "Dois pijamas da Hope",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Roupas"
+    "observacoes": "Roupas",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2749,7 +3092,8 @@
     "descricao": "Boné Jordan",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Acessórios"
+    "observacoes": "Acessórios",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 38",
@@ -2757,7 +3101,8 @@
     "descricao": "Boné preto da Decathlon",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": "Acessórios"
+    "observacoes": "Acessórios",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 39",
@@ -2765,7 +3110,8 @@
     "descricao": "Bands elásticas para exercício (CrossFit)",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 39",
@@ -2773,7 +3119,8 @@
     "descricao": "Elásticos para treino",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 39",
@@ -2781,7 +3128,8 @@
     "descricao": "Medalhas do ano passado",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": "Recordações"
+    "observacoes": "Recordações",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 39",
@@ -2789,7 +3137,8 @@
     "descricao": "Outras medalhas (Amanda e Rodrigo)",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": "Recordações"
+    "observacoes": "Recordações",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 39",
@@ -2797,7 +3146,8 @@
     "descricao": "Armação de óculos verde da Guder",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 40",
@@ -2805,7 +3155,8 @@
     "descricao": "Organizadores de acrílico",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 40",
@@ -2813,7 +3164,8 @@
     "descricao": "Outros organizadores (diversos)",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 41",
@@ -2821,7 +3173,8 @@
     "descricao": "Organizadores de acrílico",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 41",
@@ -2829,7 +3182,8 @@
     "descricao": "Outros organizadores (diversos)",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2837,7 +3191,8 @@
     "descricao": "Lingeries elaboradas",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2845,7 +3200,8 @@
     "descricao": "Lingeries simples",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2853,7 +3209,8 @@
     "descricao": "Calcinhas para período menstrual",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2861,7 +3218,8 @@
     "descricao": "Cinta-liga",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2869,7 +3227,8 @@
     "descricao": "Meia-calça",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2877,7 +3236,8 @@
     "descricao": "Biquínis",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2885,7 +3245,8 @@
     "descricao": "Maiôs",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2893,7 +3254,8 @@
     "descricao": "Meias",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 42",
@@ -2901,7 +3263,8 @@
     "descricao": "Bijuterias",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 43",
@@ -2909,7 +3272,8 @@
     "descricao": "Cabides",
     "comodo": "Suíte",
     "prioridade": "Baixa",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2917,7 +3281,8 @@
     "descricao": "Sandália preta elegante",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2925,7 +3290,8 @@
     "descricao": "Sapato de salto nude",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2933,7 +3299,8 @@
     "descricao": "Sandália usada no casamento do Nick da Amanda",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2941,7 +3308,8 @@
     "descricao": "Sandália preta de salto altíssimo",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2949,7 +3317,8 @@
     "descricao": "Bota de cano curto",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2957,7 +3326,8 @@
     "descricao": "Bota de cano longo",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2965,7 +3335,8 @@
     "descricao": "Sandália preta da Melissa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 44",
@@ -2973,7 +3344,8 @@
     "descricao": "Sandália marrom da Melissa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -2981,7 +3353,8 @@
     "descricao": "Lifter para LPO",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -2989,7 +3362,8 @@
     "descricao": "Bota de trilha da Columbia",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -2997,7 +3371,8 @@
     "descricao": "Tênis Metcon 6 (CrossFit)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -3005,7 +3380,8 @@
     "descricao": "Tênis de basquete feminino",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -3013,7 +3389,8 @@
     "descricao": "Tênis Nano 12 Mulher-Maravilha",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -3021,7 +3398,8 @@
     "descricao": "Tênis Metcon rosa com branco (modelo recente)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -3029,7 +3407,8 @@
     "descricao": "Tênis Adidas Dome",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -3037,7 +3416,8 @@
     "descricao": "Tênis Corremax da Olympikus",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -3045,7 +3425,8 @@
     "descricao": "Chinelo branco da Olympikus",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 45",
@@ -3053,7 +3434,8 @@
     "descricao": "Sapatilha de neoprene",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3061,7 +3443,8 @@
     "descricao": "Tênis All Star branco surrado",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3069,7 +3452,8 @@
     "descricao": "Tênis Nano 13 roxo (comprado no Chile)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3077,7 +3461,8 @@
     "descricao": "Tênis Jordan creme (presente do Rodrigo)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3085,7 +3470,8 @@
     "descricao": "Tênis Jordan vermelho Rashimura",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3093,7 +3479,8 @@
     "descricao": "Tênis Corre 4 rosa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3101,7 +3488,8 @@
     "descricao": "Sandália rasteirinha roxa",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3109,7 +3497,8 @@
     "descricao": "Havaianas branca",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3117,7 +3506,8 @@
     "descricao": "Tênis Adidas Pro da Maratona do Rio",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3125,7 +3515,8 @@
     "descricao": "Air Jordan de salto",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 46",
@@ -3133,7 +3524,8 @@
     "descricao": "Tênis Vans roxo",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 47",
@@ -3141,7 +3533,8 @@
     "descricao": "Chinelo Olympikus Eleva Pro Max",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 47",
@@ -3149,7 +3542,8 @@
     "descricao": "Tênis Nano 11 (Froning)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 47",
@@ -3157,7 +3551,8 @@
     "descricao": "Tênis Adidas branco ZX (presente do Rodrigo)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 47",
@@ -3165,7 +3560,8 @@
     "descricao": "Tênis Nike Air branco com roxo",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 47",
@@ -3173,7 +3569,8 @@
     "descricao": "Tênis Nike de placa para corrida (modelo não identificado)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 47",
@@ -3181,7 +3578,8 @@
     "descricao": "Fivelas do Nike Air tipo botinha (marrom com roxo)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 48",
@@ -3189,7 +3587,8 @@
     "descricao": "Incensos",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 48",
@@ -3197,7 +3596,8 @@
     "descricao": "Aromatizador de ambiente",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 48",
@@ -3205,7 +3605,8 @@
     "descricao": "Vela perfumada",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 48",
@@ -3213,7 +3614,8 @@
     "descricao": "Óleo essencial",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 49",
@@ -3221,7 +3623,8 @@
     "descricao": "Brinquedos íntimos (uso pessoal)",
     "comodo": "Suíte",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 50",
@@ -3229,7 +3632,8 @@
     "descricao": "Dilatador nasal",
     "comodo": "Banheiro",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 50",
@@ -3237,7 +3641,8 @@
     "descricao": "Porta-cápsula",
     "comodo": "Banheiro",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 50",
@@ -3245,7 +3650,8 @@
     "descricao": "Pomada anti-inflamatória",
     "comodo": "Banheiro",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 50",
@@ -3253,7 +3659,8 @@
     "descricao": "Curativos",
     "comodo": "Banheiro",
     "prioridade": "Alta",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3261,7 +3668,8 @@
     "descricao": "Refil de produtos de limpeza",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3269,7 +3677,8 @@
     "descricao": "Refil de veneno",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3277,7 +3686,8 @@
     "descricao": "Ferro de passar",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3285,7 +3695,8 @@
     "descricao": "Acessórios do ferro de passar",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3293,7 +3704,8 @@
     "descricao": "Sacos de lavagem",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3301,7 +3713,8 @@
     "descricao": "Máquina de lavar portátil",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3309,7 +3722,8 @@
     "descricao": "Acessórios da máquina de lavar portátil",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 74",
@@ -3317,7 +3731,8 @@
     "descricao": "Lixa de tapete de pedra de diatomita",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 79",
@@ -3325,7 +3740,8 @@
     "descricao": "Produtos de higiene do Rodrigo",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 79",
@@ -3333,7 +3749,8 @@
     "descricao": "Protetor solar",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 79",
@@ -3341,7 +3758,8 @@
     "descricao": "Shampoo Johnson & Johnson",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 79",
@@ -3349,7 +3767,8 @@
     "descricao": "Barbeadores",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 79",
@@ -3357,7 +3776,8 @@
     "descricao": "Cortadores de unha",
     "comodo": "Banheiro",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3365,7 +3785,8 @@
     "descricao": "Panos de chão",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3373,7 +3794,8 @@
     "descricao": "Perfex",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3381,7 +3803,8 @@
     "descricao": "Coleiras",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": "Corgi"
+    "observacoes": "Corgi",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3389,7 +3812,8 @@
     "descricao": "Tapete do corgi",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": "Corgi"
+    "observacoes": "Corgi",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3397,7 +3821,8 @@
     "descricao": "Meias do corgi",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": "Corgi"
+    "observacoes": "Corgi",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3405,7 +3830,8 @@
     "descricao": "Panos de prato",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3413,7 +3839,8 @@
     "descricao": "Sacos cata-caca do corgi",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": "Corgi"
+    "observacoes": "Corgi",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3421,7 +3848,8 @@
     "descricao": "Detergente de lavar louça",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3429,7 +3857,8 @@
     "descricao": "Alvejante",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3437,7 +3866,8 @@
     "descricao": "Garrafas de água genéricas",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3445,7 +3875,8 @@
     "descricao": "Copos plásticos",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3453,7 +3884,8 @@
     "descricao": "Duas caramanholas Camelbak",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3461,7 +3893,8 @@
     "descricao": "Garrafa d'água do Shopping Total",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3469,7 +3902,8 @@
     "descricao": "Formas de silicone",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3477,7 +3911,8 @@
     "descricao": "Panos de prato chiques",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 128",
@@ -3485,7 +3920,8 @@
     "descricao": "Mandolins",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 129",
@@ -3493,7 +3929,8 @@
     "descricao": "Quebra-cabeças",
     "comodo": "Geral",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 129",
@@ -3501,7 +3938,8 @@
     "descricao": "Cola para quebra-cabeças",
     "comodo": "Geral",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 129",
@@ -3509,7 +3947,8 @@
     "descricao": "Base com rodas da máquina de lavar",
     "comodo": "Geral",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 129",
@@ -3517,7 +3956,8 @@
     "descricao": "Etiquetadora Brother",
     "comodo": "Geral",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 129",
@@ -3525,7 +3965,8 @@
     "descricao": "Parafusadeira a bateria",
     "comodo": "Geral",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3533,7 +3974,8 @@
     "descricao": "Cabos de energia",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3541,7 +3983,8 @@
     "descricao": "Película iPhone 15 Pro Max",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3549,7 +3992,8 @@
     "descricao": "Cabo HDMI",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3557,7 +4001,8 @@
     "descricao": "Carregadores de pilha",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3565,7 +4010,8 @@
     "descricao": "Caixa do iPhone da Amanda",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3573,7 +4019,8 @@
     "descricao": "Caixa Polar Loop",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3581,7 +4028,8 @@
     "descricao": "Adaptadores de tomada",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3589,7 +4037,8 @@
     "descricao": "Controle universal sem fio",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3597,7 +4046,8 @@
     "descricao": "Carregador sem fio",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3605,7 +4055,8 @@
     "descricao": "Thumb grip Steam Deck",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3613,7 +4064,8 @@
     "descricao": "Base de microfone (Rodrigo)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3621,7 +4073,8 @@
     "descricao": "Mouse Logitech MX Anywhere",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3629,7 +4082,8 @@
     "descricao": "Baterias CR2025",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 152",
@@ -3637,7 +4091,8 @@
     "descricao": "Baterias CR2032",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 301",
@@ -3645,7 +4100,8 @@
     "descricao": "Toalhas de banho",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 301",
@@ -3653,7 +4109,8 @@
     "descricao": "Toalhas de rosto",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 302",
@@ -3661,7 +4118,8 @@
     "descricao": "Manta para sofá",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 302",
@@ -3669,7 +4127,8 @@
     "descricao": "Cobertor Miolo Wine",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 302",
@@ -3677,7 +4136,8 @@
     "descricao": "Dois jogos americanos",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 302",
@@ -3685,7 +4145,8 @@
     "descricao": "Manta para sofá vermelha",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 302",
@@ -3693,7 +4154,8 @@
     "descricao": "Tapetes de banheiro",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 302",
@@ -3701,7 +4163,8 @@
     "descricao": "Toalha de mesa",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 302",
@@ -3709,7 +4172,8 @@
     "descricao": "Jogo de cama",
     "comodo": "Suíte",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 399",
@@ -3717,7 +4181,8 @@
     "descricao": "Itens da primeira noite",
     "comodo": "Geral",
     "prioridade": "Alta",
-    "observacoes": "Primeira noite"
+    "observacoes": "Primeira noite",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3725,7 +4190,8 @@
     "descricao": "Caixa de placa-mãe",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3733,7 +4199,8 @@
     "descricao": "Jogos físicos",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3741,7 +4208,8 @@
     "descricao": "Blu-ray Star Wars",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3749,7 +4217,8 @@
     "descricao": "Caixa de GPU",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3757,7 +4226,8 @@
     "descricao": "Caixa de CPU",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3765,7 +4235,8 @@
     "descricao": "Acessórios e caixas de cubo mágico",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3773,7 +4244,8 @@
     "descricao": "RX 480 (na caixa da RTX 4070)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3781,7 +4253,8 @@
     "descricao": "Bag de lente / objetiva",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3789,7 +4262,8 @@
     "descricao": "Teclado Ducky TKL (case Pro X TKL)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3797,7 +4271,8 @@
     "descricao": "Hard case Ugreen",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3805,7 +4280,8 @@
     "descricao": "Caixa do Switch 2",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 749",
@@ -3813,7 +4289,8 @@
     "descricao": "Teclado Corsair Strafe RGB ABNT",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1702",
@@ -3821,7 +4298,8 @@
     "descricao": "Filtros de linha",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1702",
@@ -3829,7 +4307,8 @@
     "descricao": "Power cubes",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1702",
@@ -3837,7 +4316,8 @@
     "descricao": "Fonte da soundbar",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1702",
@@ -3845,7 +4325,8 @@
     "descricao": "Suporte da soundbar",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3853,7 +4334,8 @@
     "descricao": "BrickHeadz Encanto",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3861,7 +4343,8 @@
     "descricao": "Câmeras de LEGO",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3869,7 +4352,8 @@
     "descricao": "Guarda-chuva de frevo",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3877,7 +4361,8 @@
     "descricao": "Medalhas",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3885,7 +4370,8 @@
     "descricao": "LEGO macaco Kong",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3893,7 +4379,8 @@
     "descricao": "LEGO macaco primo do Tupac",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3901,7 +4388,8 @@
     "descricao": "LEGO macaco de boné no carrinho",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3909,7 +4397,8 @@
     "descricao": "LEGO topeira estranha",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3917,7 +4406,8 @@
     "descricao": "Kirby Carmen Miranda",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3925,7 +4415,8 @@
     "descricao": "Funko Satoru Gojo",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3933,7 +4424,8 @@
     "descricao": "Bonecos de Jujutsu Kaisen",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3941,7 +4433,8 @@
     "descricao": "Mario Kart vestido de rata",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3949,7 +4442,8 @@
     "descricao": "Bonecos do Bob Esponja",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3957,7 +4451,8 @@
     "descricao": "Boneco Harry Potter japonês 1",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3965,7 +4460,8 @@
     "descricao": "Boneco Harry Potter japonês 2",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1948",
@@ -3973,7 +4469,8 @@
     "descricao": "BrickHeadz Batman (Feira da Fruta)",
     "comodo": "Quarto do Bento",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3501",
@@ -3981,7 +4478,8 @@
     "descricao": "Bolsas de cabos",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3501",
@@ -3989,7 +4487,8 @@
     "descricao": "Cabos soltos",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3501",
@@ -3997,7 +4496,8 @@
     "descricao": "Power banks",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3501",
@@ -4005,7 +4505,8 @@
     "descricao": "Mesas digitalizadoras",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9501",
@@ -4013,7 +4514,8 @@
     "descricao": "Furadeira",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9501",
@@ -4021,7 +4523,8 @@
     "descricao": "Parafusadeira",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9501",
@@ -4029,7 +4532,8 @@
     "descricao": "Acessórios de aspirador",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9501",
@@ -4037,7 +4541,8 @@
     "descricao": "Ralo click",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 9501",
@@ -4045,7 +4550,8 @@
     "descricao": "Escova de limpeza elétrica",
     "comodo": "Lavanderia",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29501",
@@ -4053,7 +4559,8 @@
     "descricao": "BrickHeadz Aragorn",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29501",
@@ -4061,7 +4568,8 @@
     "descricao": "BrickHeadz Arwen Undómiel",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29501",
@@ -4069,7 +4577,8 @@
     "descricao": "Funko Pop Slash",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29501",
@@ -4077,7 +4586,8 @@
     "descricao": "Funko Pop Axl Rose",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29501",
@@ -4085,7 +4595,8 @@
     "descricao": "Hot Wheels – Naves Star Wars",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29501",
@@ -4093,7 +4604,8 @@
     "descricao": "GooJitZu do Sonic",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 29501",
@@ -4101,7 +4613,8 @@
     "descricao": "Cubos mágicos",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4109,7 +4622,8 @@
     "descricao": "Ecos da Floresta - Liz Moore",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Liz Moore"
+    "observacoes": "Autor: Liz Moore",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4117,7 +4631,8 @@
     "descricao": "Uma Casa na Areia",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4125,7 +4640,8 @@
     "descricao": "Um Rio na Escuridão - Masaji Ishikawa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Masaji Ishikawa"
+    "observacoes": "Autor: Masaji Ishikawa",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4133,7 +4649,8 @@
     "descricao": "E Se Eu Morrer Amanhã",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4141,7 +4658,8 @@
     "descricao": "O Sentido das Águas",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4149,7 +4667,8 @@
     "descricao": "Correr - Jean Echenoz",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Jean Echenoz"
+    "observacoes": "Autor: Jean Echenoz",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4157,7 +4676,8 @@
     "descricao": "Prisioneiras - Drauzio Varella",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Drauzio Varella"
+    "observacoes": "Autor: Drauzio Varella",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4165,7 +4685,8 @@
     "descricao": "Maia e Natasha",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4173,7 +4694,8 @@
     "descricao": "O Namorado",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4181,7 +4703,8 @@
     "descricao": "Invasores do Norte",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4189,7 +4712,8 @@
     "descricao": "Semeando Ideias",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4197,7 +4721,8 @@
     "descricao": "Carandiru - Drauzio Varella",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Drauzio Varella"
+    "observacoes": "Autor: Drauzio Varella",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4205,7 +4730,8 @@
     "descricao": "Uma Família Feliz - Raphaël Montes",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Raphaël Montes"
+    "observacoes": "Autor: Raphaël Montes",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4213,7 +4739,8 @@
     "descricao": "Ainda Estou Aqui - Marcelo Rubens Paiva",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Marcelo Rubens Paiva"
+    "observacoes": "Autor: Marcelo Rubens Paiva",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4221,7 +4748,8 @@
     "descricao": "Feliz Ano Velho - Marcelo Rubens Paiva",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Marcelo Rubens Paiva"
+    "observacoes": "Autor: Marcelo Rubens Paiva",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4229,7 +4757,8 @@
     "descricao": "Desterros",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4237,7 +4766,8 @@
     "descricao": "Quando os Pássaros Voam para o Sul - Lisa Ridzén",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Lisa Ridzén"
+    "observacoes": "Autor: Lisa Ridzén",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4245,7 +4775,8 @@
     "descricao": "Dias de Abandono - Elena Ferrante",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Elena Ferrante"
+    "observacoes": "Autor: Elena Ferrante",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4253,7 +4784,8 @@
     "descricao": "Meu Corpo Minha Casa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4261,7 +4793,8 @@
     "descricao": "Hábitos Atômicos - James Clear",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: James Clear"
+    "observacoes": "Autor: James Clear",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4269,7 +4802,8 @@
     "descricao": "Liderando o Futuro",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4277,7 +4811,8 @@
     "descricao": "Quatro Estágios da Segurança Psicológica - Timothy R. Clark",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Timothy R. Clark"
+    "observacoes": "Autor: Timothy R. Clark",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4285,7 +4820,8 @@
     "descricao": "Habilidades para o Futuro do Trabalho na Era da Inteligência Artificial",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4293,7 +4829,8 @@
     "descricao": "O Menino que Desenhava a Sombra",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4301,7 +4838,8 @@
     "descricao": "A Quinta Disciplina - Peter Senge",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Peter Senge"
+    "observacoes": "Autor: Peter Senge",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4309,7 +4847,8 @@
     "descricao": "Os Primeiros 90 Dias - Michael D. Watkins",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Michael D. Watkins"
+    "observacoes": "Autor: Michael D. Watkins",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4317,7 +4856,8 @@
     "descricao": "Líderes Se Servem por Último - Simon Sinek",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Simon Sinek"
+    "observacoes": "Autor: Simon Sinek",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4325,7 +4865,8 @@
     "descricao": "Liderança e Autoengano: Saia da Sua Caixa - Arbinger Institute",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Arbinger Institute"
+    "observacoes": "Autor: Arbinger Institute",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4333,7 +4874,8 @@
     "descricao": "365 Monstros",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4341,7 +4883,8 @@
     "descricao": "Siga em Frente - Austin Kleon",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Austin Kleon"
+    "observacoes": "Autor: Austin Kleon",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4349,7 +4892,8 @@
     "descricao": "Roube Como um Artista - Austin Kleon",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Austin Kleon"
+    "observacoes": "Autor: Austin Kleon",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4357,7 +4901,8 @@
     "descricao": "Mostre o Seu Trabalho - Austin Kleon",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Austin Kleon"
+    "observacoes": "Autor: Austin Kleon",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 1",
@@ -4365,7 +4910,8 @@
     "descricao": "Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável - Jez Humble; David Farley",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Jez Humble; David Farley"
+    "observacoes": "Autor: Jez Humble; David Farley",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4373,7 +4919,8 @@
     "descricao": "Medo Clássico – Edgar Allan Poe – Vol. 1 - Edgar Allan Poe",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Edgar Allan Poe"
+    "observacoes": "Autor: Edgar Allan Poe",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4381,7 +4928,8 @@
     "descricao": "Medo Clássico – Edgar Allan Poe – Vol. 2 - Edgar Allan Poe",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Edgar Allan Poe"
+    "observacoes": "Autor: Edgar Allan Poe",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4389,7 +4937,8 @@
     "descricao": "VHS: Verdadeiras Histórias de Sangue - César Bravo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: César Bravo"
+    "observacoes": "Autor: César Bravo",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4397,7 +4946,8 @@
     "descricao": "1984 - George Orwell",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: George Orwell"
+    "observacoes": "Autor: George Orwell",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4405,7 +4955,8 @@
     "descricao": "Dentro da Baleia e Outros Ensaios - George Orwell",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: George Orwell"
+    "observacoes": "Autor: George Orwell",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4413,7 +4964,8 @@
     "descricao": "A Revolução dos Bichos - George Orwell",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: George Orwell"
+    "observacoes": "Autor: George Orwell",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4421,7 +4973,8 @@
     "descricao": "Medo Clássico – H. P. Lovecraft – Vol. 1 - H. P. Lovecraft",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: H. P. Lovecraft"
+    "observacoes": "Autor: H. P. Lovecraft",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4429,7 +4982,8 @@
     "descricao": "Saboroso Cadáver",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4437,7 +4991,8 @@
     "descricao": "Morto Não Fala e Outros Segredos de Necrotério - Marco de Castro",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Marco de Castro"
+    "observacoes": "Autor: Marco de Castro",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4445,7 +5000,8 @@
     "descricao": "Medicina Macabra",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4453,7 +5009,8 @@
     "descricao": "A Garota da Casa ao Lado - Jack Ketchum",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Jack Ketchum"
+    "observacoes": "Autor: Jack Ketchum",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4461,7 +5018,8 @@
     "descricao": "Serial Killers Made in Brasil - Ilana Casoy",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Ilana Casoy"
+    "observacoes": "Autor: Ilana Casoy",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4469,7 +5027,8 @@
     "descricao": "Serial Killer: Louco ou Cruel? - Ilana Casoy",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Ilana Casoy"
+    "observacoes": "Autor: Ilana Casoy",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4477,7 +5036,8 @@
     "descricao": "Hannibal: A Origem do Mal - Thomas Harris",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Thomas Harris"
+    "observacoes": "Autor: Thomas Harris",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4485,7 +5045,8 @@
     "descricao": "Garota Interrompida - Susanna Kaysen",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Susanna Kaysen"
+    "observacoes": "Autor: Susanna Kaysen",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4493,7 +5054,8 @@
     "descricao": "Vermelho",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4501,7 +5063,8 @@
     "descricao": "O Rei de Amarelo - Robert W. Chambers",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Robert W. Chambers"
+    "observacoes": "Autor: Robert W. Chambers",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4509,7 +5072,8 @@
     "descricao": "Como Matei Minha Família - Bella Mackie",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Bella Mackie"
+    "observacoes": "Autor: Bella Mackie",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4517,7 +5081,8 @@
     "descricao": "Minha Querida Família",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4525,7 +5090,8 @@
     "descricao": "Pedra, Papel e Tesoura - Alice Feeney",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Alice Feeney"
+    "observacoes": "Autor: Alice Feeney",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4533,7 +5099,8 @@
     "descricao": "Cruel: Índice da Maldade",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 2",
@@ -4541,7 +5108,8 @@
     "descricao": "O Silêncio dos Inocentes - Thomas Harris",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Thomas Harris"
+    "observacoes": "Autor: Thomas Harris",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4549,7 +5117,8 @@
     "descricao": "Terríveis Mestres (coleção)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4557,7 +5126,8 @@
     "descricao": "Jantar Secreto - Raphael Montes",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Raphael Montes"
+    "observacoes": "Autor: Raphael Montes",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4565,7 +5135,8 @@
     "descricao": "O Avesso da Pele - Jefferson Tenório",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Jefferson Tenório"
+    "observacoes": "Autor: Jefferson Tenório",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4573,7 +5144,8 @@
     "descricao": "Não Fossem as Sílabas do Sábado - Mariana Salomão",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Mariana Salomão"
+    "observacoes": "Autor: Mariana Salomão",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4581,7 +5153,8 @@
     "descricao": "Pactos Mortais",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4589,7 +5162,8 @@
     "descricao": "Como Arruinar um Casamento",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4597,7 +5171,8 @@
     "descricao": "Watchmen (HQ) - Alan Moore; Dave Gibbons",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Alan Moore; Dave Gibbons"
+    "observacoes": "Autor: Alan Moore; Dave Gibbons",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4605,7 +5180,8 @@
     "descricao": "Batman: O Cavaleiro das Trevas (HQ) - Frank Miller",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Frank Miller"
+    "observacoes": "Autor: Frank Miller",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4613,7 +5189,8 @@
     "descricao": "Messias de Duna - Frank Herbert",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Frank Herbert"
+    "observacoes": "Autor: Frank Herbert",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4621,7 +5198,8 @@
     "descricao": "Blade Runner - Philip K. Dick",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Philip K. Dick"
+    "observacoes": "Autor: Philip K. Dick",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4629,7 +5207,8 @@
     "descricao": "Dylan Elétrico: Folk Music",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4637,7 +5216,8 @@
     "descricao": "Nós, o Atlântico Insolitário - Tamara Klink",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Tamara Klink"
+    "observacoes": "Autor: Tamara Klink",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4645,7 +5225,8 @@
     "descricao": "Leia Isso se Quer Tirar Fotos Incríveis - Henry Carroll",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Henry Carroll"
+    "observacoes": "Autor: Henry Carroll",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4653,7 +5234,8 @@
     "descricao": "Como Eu Faço Fotos - Joel Meyerowitz",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Joel Meyerowitz"
+    "observacoes": "Autor: Joel Meyerowitz",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4661,7 +5243,8 @@
     "descricao": "Leia Isso se Quer Tirar Fotografias Incríveis de Lugares - Henry Carroll",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Henry Carroll"
+    "observacoes": "Autor: Henry Carroll",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4669,7 +5252,8 @@
     "descricao": "O Silmarillion - J. R. R. Tolkien",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: J. R. R. Tolkien"
+    "observacoes": "Autor: J. R. R. Tolkien",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4677,7 +5261,8 @@
     "descricao": "Beren e Lúthien - J. R. R. Tolkien",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: J. R. R. Tolkien"
+    "observacoes": "Autor: J. R. R. Tolkien",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4685,7 +5270,8 @@
     "descricao": "A Queda de Gondolin - J. R. R. Tolkien",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: J. R. R. Tolkien"
+    "observacoes": "Autor: J. R. R. Tolkien",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4693,7 +5279,8 @@
     "descricao": "O Olho do Fotógrafo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4701,7 +5288,8 @@
     "descricao": "The Dramatic Portrait",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4709,7 +5297,8 @@
     "descricao": "A Prática da Iluminação Perfeita",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4717,7 +5306,8 @@
     "descricao": "79 Filmes pra Assistir Enquanto Dirige - Choque de Cultura",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Choque de Cultura"
+    "observacoes": "Autor: Choque de Cultura",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4725,7 +5315,8 @@
     "descricao": "A Sociedade do Anel - J. R. R. Tolkien",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: J. R. R. Tolkien"
+    "observacoes": "Autor: J. R. R. Tolkien",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4733,7 +5324,8 @@
     "descricao": "As Duas Torres - J. R. R. Tolkien",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: J. R. R. Tolkien"
+    "observacoes": "Autor: J. R. R. Tolkien",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 3",
@@ -4741,7 +5333,8 @@
     "descricao": "O Retorno do Rei - J. R. R. Tolkien",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: J. R. R. Tolkien"
+    "observacoes": "Autor: J. R. R. Tolkien",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4749,7 +5342,8 @@
     "descricao": "Boa Noite, Punpun - Inio Asano",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Inio Asano"
+    "observacoes": "Autor: Inio Asano",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4757,7 +5351,8 @@
     "descricao": "Aos Prantos no Mercado",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4765,7 +5360,8 @@
     "descricao": "O Retorno Eterno - Rubem Alves",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rubem Alves"
+    "observacoes": "Autor: Rubem Alves",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4773,7 +5369,8 @@
     "descricao": "As Coisas que Você Só Vê Quando Desacelera - Haemin Sunim",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Haemin Sunim"
+    "observacoes": "Autor: Haemin Sunim",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4781,7 +5378,8 @@
     "descricao": "Manual da Demissão",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4789,7 +5387,8 @@
     "descricao": "O Pacto da Branquitude - Cida Bento",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Cida Bento"
+    "observacoes": "Autor: Cida Bento",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4797,7 +5396,8 @@
     "descricao": "Neca: Romance em Bajubá",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4805,7 +5405,8 @@
     "descricao": "Coleção Brasilis – A Viagem do Descobrimento - Eduardo Bueno",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Eduardo Bueno"
+    "observacoes": "Autor: Eduardo Bueno",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4813,7 +5414,8 @@
     "descricao": "Coleção Brasilis – Naufrágios, Traficantes e Degredados - Eduardo Bueno",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Eduardo Bueno"
+    "observacoes": "Autor: Eduardo Bueno",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4821,7 +5423,8 @@
     "descricao": "Coleção Brasilis – Capitães do Brasil - Eduardo Bueno",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Eduardo Bueno"
+    "observacoes": "Autor: Eduardo Bueno",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4829,7 +5432,8 @@
     "descricao": "Coleção Brasilis – A Coroa, a Cruz e a Espada - Eduardo Bueno",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Eduardo Bueno"
+    "observacoes": "Autor: Eduardo Bueno",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4837,7 +5441,8 @@
     "descricao": "Acolhendo Sua Criança Interior",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4845,7 +5450,8 @@
     "descricao": "Mães que Fazem Mal",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4853,7 +5459,8 @@
     "descricao": "O Corpo Guarda as Marcas - Bessel van der Kolk",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Bessel van der Kolk"
+    "observacoes": "Autor: Bessel van der Kolk",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4861,7 +5468,8 @@
     "descricao": "O Mito do Instinto Materno - Elisabeth Badinter",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Elisabeth Badinter"
+    "observacoes": "Autor: Elisabeth Badinter",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4869,7 +5477,8 @@
     "descricao": "O Livro que Você Gostaria que Seus Pais Tivessem Lido - Philippa Perry",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Philippa Perry"
+    "observacoes": "Autor: Philippa Perry",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4877,7 +5486,8 @@
     "descricao": "Republicria",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4885,7 +5495,8 @@
     "descricao": "Fabricando Cidadãos Felizes",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4893,7 +5504,8 @@
     "descricao": "Reinvenção da Intimidade - Christian Dunker",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Christian Dunker"
+    "observacoes": "Autor: Christian Dunker",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4901,7 +5513,8 @@
     "descricao": "Os Quatro Compromissos - Don Miguel Ruiz",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Don Miguel Ruiz"
+    "observacoes": "Autor: Don Miguel Ruiz",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4909,7 +5522,8 @@
     "descricao": "Espírito da Intimidade - Don Miguel Ruiz",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Don Miguel Ruiz"
+    "observacoes": "Autor: Don Miguel Ruiz",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4917,7 +5531,8 @@
     "descricao": "Como Lidar com Transtornos Alimentares",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4925,7 +5540,8 @@
     "descricao": "Estranhos a Nós Mesmos - Julia Kristeva",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Julia Kristeva"
+    "observacoes": "Autor: Julia Kristeva",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4933,7 +5549,8 @@
     "descricao": "O Livro da Simone de Beauvoir – Vol. 2",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4941,7 +5558,8 @@
     "descricao": "Ninguém Nasce Mulher, Torna-se Mulher - Simone de Beauvoir",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Simone de Beauvoir"
+    "observacoes": "Autor: Simone de Beauvoir",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4949,7 +5567,8 @@
     "descricao": "Frida Kahlo: Biografia",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4957,7 +5576,8 @@
     "descricao": "Aurora: O Despertar da Mulher Exausta - Marcela Seribeli",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Marcela Seribeli"
+    "observacoes": "Autor: Marcela Seribeli",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4965,7 +5585,8 @@
     "descricao": "Indomável - Glennon Doyle",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Glennon Doyle"
+    "observacoes": "Autor: Glennon Doyle",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4973,7 +5594,8 @@
     "descricao": "Felizes por Enquanto - Geni Núñez",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Geni Núñez"
+    "observacoes": "Autor: Geni Núñez",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4981,7 +5603,8 @@
     "descricao": "Estavelmente Instável - Marcela Chaide",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Marcela Chaide"
+    "observacoes": "Autor: Marcela Chaide",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4989,7 +5612,8 @@
     "descricao": "Tudo Sobre o Amor: Novas Perspectivas - Bell Hooks",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Bell Hooks"
+    "observacoes": "Autor: Bell Hooks",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -4997,7 +5621,8 @@
     "descricao": "Não Pise no Meu Vazio - Ana Suy",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Ana Suy"
+    "observacoes": "Autor: Ana Suy",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5005,7 +5630,8 @@
     "descricao": "O Amor Não Mora na Urgência do Outro - Luana Carvalho",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Luana Carvalho"
+    "observacoes": "Autor: Luana Carvalho",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5013,7 +5639,8 @@
     "descricao": "Bordados - Marjane Satrapi",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Marjane Satrapi"
+    "observacoes": "Autor: Marjane Satrapi",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5021,7 +5648,8 @@
     "descricao": "Oráculo da Deusa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5029,7 +5657,8 @@
     "descricao": "Eu Só Existo no Olhar do Outro - Ana Suy; Christian Dunker",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Ana Suy; Christian Dunker"
+    "observacoes": "Autor: Ana Suy; Christian Dunker",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5037,7 +5666,8 @@
     "descricao": "O Que o Sol Faz com as Flores - Rupi Kaur",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rupi Kaur"
+    "observacoes": "Autor: Rupi Kaur",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5045,7 +5675,8 @@
     "descricao": "Outro Jeito de Usar a Boca - Rupi Kaur",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rupi Kaur"
+    "observacoes": "Autor: Rupi Kaur",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5053,7 +5684,8 @@
     "descricao": "Meu Corpo Minha Casa - Rupi Kaur",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rupi Kaur"
+    "observacoes": "Autor: Rupi Kaur",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5061,7 +5693,8 @@
     "descricao": "A Contagem dos Sonhos - Chimamanda Ngozi Adichie",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Chimamanda Ngozi Adichie"
+    "observacoes": "Autor: Chimamanda Ngozi Adichie",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5069,7 +5702,8 @@
     "descricao": "Tudo Nela Brilha e Queima - Hiane Leão",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Hiane Leão"
+    "observacoes": "Autor: Hiane Leão",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5077,7 +5711,8 @@
     "descricao": "Seis Dias em Bombay",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5085,7 +5720,8 @@
     "descricao": "O Ano do Nirvana",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5093,7 +5729,8 @@
     "descricao": "A Vida Não É Útil - Ailton Krenak",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Ailton Krenak"
+    "observacoes": "Autor: Ailton Krenak",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5101,7 +5738,8 @@
     "descricao": "Me Segura que Eu Vou Dar um Troço",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5109,7 +5747,8 @@
     "descricao": "Eu Sempre Morro de Surto em Surto",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5117,7 +5756,8 @@
     "descricao": "Respeite a Solidão Alheia",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 4",
@@ -5125,7 +5765,8 @@
     "descricao": "Pequeno Tratado Sobre as Despedidas",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5133,7 +5774,8 @@
     "descricao": "Perigoso! Este Livro Contém Coelhos",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5141,7 +5783,8 @@
     "descricao": "Não Abre Esse Livro e Vai Ler Outra Coisa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5149,7 +5792,8 @@
     "descricao": "Não Abre Esse Livro Novamente",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5157,7 +5801,8 @@
     "descricao": "Sério, Não Abre Esse Livro",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5165,7 +5810,8 @@
     "descricao": "Não Abre Esse Livro Nunca",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5173,7 +5819,8 @@
     "descricao": "Jujutsu Kaisen: Filme (Romance)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5181,7 +5828,8 @@
     "descricao": "Jujutsu Kaisen – Vol. 0",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5189,7 +5837,8 @@
     "descricao": "Jujutsu Kaisen – Vol. 4",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5197,7 +5846,8 @@
     "descricao": "Jujutsu Kaisen – Vol. 5",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5205,7 +5855,8 @@
     "descricao": "Jujutsu Kaisen – Vol. 6",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5213,7 +5864,8 @@
     "descricao": "Jujutsu Kaisen – Vol. 7",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5221,7 +5873,8 @@
     "descricao": "Jujutsu Kaisen – Vol. 8",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5229,7 +5882,8 @@
     "descricao": "Blue Lock – Vol. 1",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5237,7 +5891,8 @@
     "descricao": "Blue Lock – Vol. 2",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5245,7 +5900,8 @@
     "descricao": "Blue Lock – Vol. 3",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5253,7 +5909,8 @@
     "descricao": "Blue Lock – Vol. 4",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5261,7 +5918,8 @@
     "descricao": "Blue Lock – Vol. 5",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5269,7 +5927,8 @@
     "descricao": "Blue Lock – Vol. 7",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5277,7 +5936,8 @@
     "descricao": "Blue Lock – Vol. 9",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5285,7 +5945,8 @@
     "descricao": "Blue Lock – Vol. 10",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5293,7 +5954,8 @@
     "descricao": "Cadernos de Teoria da PS",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5301,7 +5963,8 @@
     "descricao": "Zacimba e a Nobreza Negra",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5309,7 +5972,8 @@
     "descricao": "Nosso Ken e a Floresta Encantada",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5317,7 +5981,8 @@
     "descricao": "A História do Ikinguli e o Pinguinho",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5325,7 +5990,8 @@
     "descricao": "Real Pigeons Combatem o Crime",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5333,7 +5999,8 @@
     "descricao": "Imperador Deus de Duna - Frank Herbert",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Frank Herbert"
+    "observacoes": "Autor: Frank Herbert",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5341,7 +6008,8 @@
     "descricao": "Hereges de Duna - Frank Herbert",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Frank Herbert"
+    "observacoes": "Autor: Frank Herbert",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5349,7 +6017,8 @@
     "descricao": "Herdeiros de Duna - Frank Herbert",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Frank Herbert"
+    "observacoes": "Autor: Frank Herbert",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 5",
@@ -5357,7 +6026,8 @@
     "descricao": "Guia da Redstone do Minecraft",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5365,7 +6035,8 @@
     "descricao": "Isadora Moon Vai à Escola",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5373,7 +6044,8 @@
     "descricao": "O Incrível Mundo de Tom Gates - Liz Pichon",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Liz Pichon"
+    "observacoes": "Autor: Liz Pichon",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5381,7 +6053,8 @@
     "descricao": "Press Start: Fim de Jogo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5389,7 +6062,8 @@
     "descricao": "Gol: O Pontapé Inicial",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5397,7 +6071,8 @@
     "descricao": "O Grande Livro de Biologia do Manual do Mundo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5405,7 +6080,8 @@
     "descricao": "O Grande Livro de Matemática do Manual do Mundo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5413,7 +6089,8 @@
     "descricao": "Diários dos Mistérios de Verdade - Pollux",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Pollux"
+    "observacoes": "Autor: Pollux",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5421,7 +6098,8 @@
     "descricao": "Histórias Divertidas da Wayside School - Louis Sachar",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Louis Sachar"
+    "observacoes": "Autor: Louis Sachar",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5429,7 +6107,8 @@
     "descricao": "Marvin e a Vila Mágica",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5437,7 +6116,8 @@
     "descricao": "Diário de um Ninja",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5445,7 +6125,8 @@
     "descricao": "A Casa na Árvore com 13 Andares",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5453,7 +6134,8 @@
     "descricao": "A Casa na Árvore: Livro de Diversão",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5461,7 +6143,8 @@
     "descricao": "Aventuras de Mike – Livro Interativo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5469,7 +6152,8 @@
     "descricao": "Aventuras de Mike e a Prima Irritante",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5477,7 +6161,8 @@
     "descricao": "Aventuras de Mike – Pé na Estrada",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5485,7 +6170,8 @@
     "descricao": "Aventuras de Mike – Edição de Colecionador",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5493,7 +6179,8 @@
     "descricao": "Aventuras de Mike e a Origem de Robson",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5501,7 +6188,8 @@
     "descricao": "Aventuras de Mike e o Bebê Chegou",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5509,7 +6197,8 @@
     "descricao": "Isadora Moon Se Mete em Confusão",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5517,7 +6206,8 @@
     "descricao": "Isadora Moon Faz Aniversário",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5525,7 +6215,8 @@
     "descricao": "Nas Águas do Rio Negro - Drauzio Varella",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Drauzio Varella"
+    "observacoes": "Autor: Drauzio Varella",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5533,7 +6224,8 @@
     "descricao": "Isadora Moon em um Passeio da Escola",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5541,7 +6233,8 @@
     "descricao": "Sonic: Corridas de Caos e a Base do Mal",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5549,7 +6242,8 @@
     "descricao": "Isadora Moon no Parque de Diversões",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5557,7 +6251,8 @@
     "descricao": "Onde Está? (Livro de Charadas Ilustradas)",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5565,7 +6260,8 @@
     "descricao": "Cascão: Sabe Tudo de Futebol",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5573,7 +6269,8 @@
     "descricao": "Almanaque Picolé",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5581,7 +6278,8 @@
     "descricao": "Manual do Mundo: Os Mistérios do Universo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5589,7 +6287,8 @@
     "descricao": "Porto Alegre das Crianças - Cadu",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Cadu"
+    "observacoes": "Autor: Cadu",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5597,7 +6296,8 @@
     "descricao": "Harry Potter e a Câmara Secreta - J. K. Rowling",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: J. K. Rowling"
+    "observacoes": "Autor: J. K. Rowling",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5605,7 +6305,8 @@
     "descricao": "Duna - Frank Herbert",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Frank Herbert"
+    "observacoes": "Autor: Frank Herbert",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 6",
@@ -5613,7 +6314,8 @@
     "descricao": "Filhos de Duna - Frank Herbert",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Frank Herbert"
+    "observacoes": "Autor: Frank Herbert",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 7",
@@ -5621,7 +6323,8 @@
     "descricao": "Aventuras de Mike: Mudando de Casa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 7",
@@ -5629,7 +6332,8 @@
     "descricao": "Gravity Falls: O Diário Perdido",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 7",
@@ -5637,7 +6341,8 @@
     "descricao": "Meu Diário de Anotações do Gravity Falls",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 7",
@@ -5645,7 +6350,8 @@
     "descricao": "Gravity Falls: Livro do Bill",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 7",
@@ -5653,7 +6359,8 @@
     "descricao": "Bad Moods - AF The Hype",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: AF The Hype"
+    "observacoes": "Autor: AF The Hype",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5661,7 +6368,8 @@
     "descricao": "Vida Contemplativa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5669,7 +6377,8 @@
     "descricao": "Caderno Anti-Ansiedade",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5677,7 +6386,8 @@
     "descricao": "Caderno Escrevo para Me Sentir Cada Dia Mais Eu Mesma",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5685,7 +6395,8 @@
     "descricao": "Cura pelas Palavras - Rupi Kaur",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rupi Kaur"
+    "observacoes": "Autor: Rupi Kaur",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5693,7 +6404,8 @@
     "descricao": "Caderno Mapa",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5701,7 +6413,8 @@
     "descricao": "Caderno Dossier",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5709,7 +6422,8 @@
     "descricao": "Nada Como um Livro Após o Outro",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5717,7 +6431,8 @@
     "descricao": "Planner de Leitura DarkSide",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5725,7 +6440,8 @@
     "descricao": "Planner Maravilhoso da Literatura Latino-Americana",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 8",
@@ -5733,7 +6449,8 @@
     "descricao": "Planner do Essencialismo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": null
+    "observacoes": null,
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -5741,7 +6458,8 @@
     "descricao": "Cozinha Só para Um - Rita Lobo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rita Lobo"
+    "observacoes": "Autor: Rita Lobo",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -5749,7 +6467,8 @@
     "descricao": "Todas as Cestas - Paola Carosella",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Paola Carosella"
+    "observacoes": "Autor: Paola Carosella",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -5757,7 +6476,8 @@
     "descricao": "Cozinha Prática - Rita Lobo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rita Lobo"
+    "observacoes": "Autor: Rita Lobo",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -5765,7 +6485,8 @@
     "descricao": "Cozinha Quatro Mãos - Rita Lobo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rita Lobo"
+    "observacoes": "Autor: Rita Lobo",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -5773,7 +6494,8 @@
     "descricao": "Panelinha: Receitas que Funcionam - Rita Lobo",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Rita Lobo"
+    "observacoes": "Autor: Rita Lobo",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 32",
@@ -5781,7 +6503,8 @@
     "descricao": "Um Garoto Chamado Roberto - Gabriel Pensador",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Autor: Gabriel Pensador"
+    "observacoes": "Autor: Gabriel Pensador",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 130",
@@ -5789,7 +6512,8 @@
     "descricao": "Taças de vidro",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 130",
@@ -5797,7 +6521,8 @@
     "descricao": "Copos de vidro",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 130",
@@ -5805,7 +6530,8 @@
     "descricao": "Canecas de vidro",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 130",
@@ -5813,7 +6539,8 @@
     "descricao": "Cafeteira Moka Bialetti",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 131",
@@ -5821,7 +6548,8 @@
     "descricao": "Bowls",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 131",
@@ -5829,7 +6557,8 @@
     "descricao": "Tigelas",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 131",
@@ -5837,7 +6566,8 @@
     "descricao": "Potes de vidro",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 131",
@@ -5845,7 +6575,8 @@
     "descricao": "Potes de geladeira",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 131",
@@ -5853,7 +6584,8 @@
     "descricao": "Potes de plástico",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5861,7 +6593,8 @@
     "descricao": "Copos Nespresso",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5869,7 +6602,8 @@
     "descricao": "Copos térmicos Nespresso",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5877,7 +6611,8 @@
     "descricao": "Copo Stanley",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5885,7 +6620,8 @@
     "descricao": "Garrafa Stanley",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5893,7 +6629,8 @@
     "descricao": "Pratos",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5901,7 +6638,8 @@
     "descricao": "Tigelas",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5909,7 +6647,8 @@
     "descricao": "Garrafa do Sonic",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5917,7 +6656,8 @@
     "descricao": "Garrafa Camelbak",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5925,7 +6665,8 @@
     "descricao": "Utensílios para picar alho e cebola",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5933,7 +6674,8 @@
     "descricao": "Pote de queijo",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5941,7 +6683,8 @@
     "descricao": "Copo graduado",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 132",
@@ -5949,7 +6692,8 @@
     "descricao": "Tampa de espumante",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 133",
@@ -5957,7 +6701,8 @@
     "descricao": "Bebidas alcoólicas",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: L"
+    "observacoes": "Fragilidade: L",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 133",
@@ -5965,7 +6710,8 @@
     "descricao": "Nespresso Vertuo",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 133",
@@ -5973,7 +6719,8 @@
     "descricao": "Moedor de café elétrico",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 133",
@@ -5981,7 +6728,8 @@
     "descricao": "Chaleira bico de ganso",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 133",
@@ -5989,7 +6737,8 @@
     "descricao": "Infusor de chá",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -5997,7 +6746,8 @@
     "descricao": "Porta cápsulas Nespresso",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6005,7 +6755,8 @@
     "descricao": "Garrafa Stanley",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6013,7 +6764,8 @@
     "descricao": "Garrafas Stanley",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: S"
+    "observacoes": "Fragilidade: S",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6021,7 +6773,8 @@
     "descricao": "Tábuas de corte",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6029,7 +6782,8 @@
     "descricao": "Fruteira",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6037,7 +6791,8 @@
     "descricao": "Suporte para lavar frutas e legumes na pia",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6045,7 +6800,8 @@
     "descricao": "Liquidificador Shake Up",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6053,7 +6809,8 @@
     "descricao": "Sousplat",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6061,7 +6818,8 @@
     "descricao": "Ralador",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6069,7 +6827,8 @@
     "descricao": "Escorredor de macarrão",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6077,7 +6836,8 @@
     "descricao": "Garrafa térmica da Netskope",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 134",
@@ -6085,7 +6845,8 @@
     "descricao": "Suporte de prato",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 135",
@@ -6093,7 +6854,8 @@
     "descricao": "Utensílios de cozinha",
     "comodo": "Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 135",
@@ -6101,7 +6863,8 @@
     "descricao": "DJI Neo 2",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 135",
@@ -6109,7 +6872,8 @@
     "descricao": "GoPro",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 135",
@@ -6117,7 +6881,8 @@
     "descricao": "Fujifilm Instax",
     "comodo": "Escritório",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 136",
@@ -6125,7 +6890,8 @@
     "descricao": "Toalheiros",
     "comodo": "Banheiro e Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 136",
@@ -6133,7 +6899,8 @@
     "descricao": "Paninho da Vanessa",
     "comodo": "Banheiro e Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 136",
@@ -6141,7 +6908,8 @@
     "descricao": "Suporte de paninho da Vanessa",
     "comodo": "Banheiro e Cozinha",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -6149,7 +6917,8 @@
     "descricao": "Controles remotos do ar-condicionado",
     "comodo": "Geral",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   },
   {
     "caixa": "Caixa 33",
@@ -6157,6 +6926,7 @@
     "descricao": "Controles remotos das TVs",
     "comodo": "Geral",
     "prioridade": "Média",
-    "observacoes": "Fragilidade: N"
+    "observacoes": "Fragilidade: N",
+    "local": "casa"
   }
 ]
