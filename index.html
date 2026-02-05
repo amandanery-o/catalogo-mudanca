@@ -350,7 +350,14 @@
         async function loadData() {
             try {
                 const response = await fetch('catalogo_dados.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
                 allItems = await response.json();
+
+                if (!Array.isArray(allItems)) {
+                    throw new Error('Dados não são um array válido');
+                }
 
                 // Populate filters
                 populateFilters();
@@ -363,7 +370,9 @@
             } catch (error) {
                 console.error('Erro ao carregar dados:', error);
                 document.getElementById('resultsList').innerHTML =
-                    '<div class="no-results"><div class="no-results-icon">❌</div><p>Erro ao carregar dados. Certifique-se de que o arquivo catalogo_dados.json está no mesmo diretório.</p></div>';
+                    '<div class="no-results"><div class="no-results-icon">❌</div><p>Erro ao carregar dados: ' + error.message + '</p><p>Certifique-se de que o arquivo catalogo_dados.json está no mesmo diretório.</p></div>';
+                document.getElementById('totalItems').textContent = '0';
+                document.getElementById('foundItems').textContent = '0';
             }
         }
 
