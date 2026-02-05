@@ -355,7 +355,9 @@
         // Load data
         async function loadData() {
             try {
-                const response = await fetch('catalogo_dados.json');
+                // Add cache-busting parameter to ensure fresh data
+                const cacheBuster = new Date().getTime();
+                const response = await fetch(`catalogo_dados.json?v=${cacheBuster}`);
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
