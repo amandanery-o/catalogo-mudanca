@@ -7342,5 +7342,248 @@
     "prioridade": "Média",
     "observacoes": null,
     "local": "casa"
+  },
+  {
+    "caixa": "Caixa 48",
+    "categoria": "Aromaterapia",
+    "descricao": "Óleos essenciais",
+    "comodo": "Suíte",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 51",
+    "categoria": "Higiene & Skincare",
+    "descricao": "Produtos completos Bento e Amanda",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 52",
+    "categoria": "Higiene pessoal",
+    "descricao": "Sabonetes Natura (8)",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 52",
+    "categoria": "Higiene pessoal",
+    "descricao": "Sabonetes Dove (2)",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 52",
+    "categoria": "Higiene pessoal",
+    "descricao": "Produtos de unhas",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 52",
+    "categoria": "Higiene pessoal",
+    "descricao": "Produtos de cabelo",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 52",
+    "categoria": "Higiene íntima",
+    "descricao": "Coletores e absorventes",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 53",
+    "categoria": "Higiene & Beleza",
+    "descricao": "Lenços umedecidos",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 53",
+    "categoria": "Cabelos",
+    "descricao": "Shampoos e condicionadores",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 53",
+    "categoria": "Cabelos",
+    "descricao": "Secador Taiff",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 53",
+    "categoria": "Cabelos",
+    "descricao": "Chapinha",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 53",
+    "categoria": "Cabelos",
+    "descricao": "Modelador de cachos",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 53",
+    "categoria": "Cabelos",
+    "descricao": "Escovas e touca",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 53",
+    "categoria": "Higiene",
+    "descricao": "Algodão bolinha",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 54",
+    "categoria": "Pet",
+    "descricao": "Itens do cachorro Kendall",
+    "comodo": "Área Social",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 55",
+    "categoria": "Organização",
+    "descricao": "Cabides",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 55",
+    "categoria": "Organização",
+    "descricao": "Gabarito dobrar roupa",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 55",
+    "categoria": "Conservação",
+    "descricao": "Secar antimofo",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 56",
+    "categoria": "Cozinha",
+    "descricao": "Panelas",
+    "comodo": "Cozinha",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 56",
+    "categoria": "Cozinha",
+    "descricao": "Lata decorativa de panetone",
+    "comodo": "Cozinha",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 57",
+    "categoria": "Organização",
+    "descricao": "Acrílicos",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 57",
+    "categoria": "Cozinha",
+    "descricao": "Acrílico Nespresso",
+    "comodo": "Cozinha",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 58",
+    "categoria": "Organização",
+    "descricao": "Acrílicos",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 58",
+    "categoria": "Higiene",
+    "descricao": "Suporte lenço umedecido",
+    "comodo": "Banheiro",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 59",
+    "categoria": "Organização",
+    "descricao": "Acrílicos",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 59",
+    "categoria": "Organização",
+    "descricao": "Organizadores de camiseta",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 302",
+    "categoria": "Mesa posta",
+    "descricao": "Jogo americano (2)",
+    "comodo": "Cozinha",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
   }
 ]
