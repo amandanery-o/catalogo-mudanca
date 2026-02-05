@@ -7225,5 +7225,122 @@
     "prioridade": "Média",
     "observacoes": "Fragilidade: Não",
     "local": "deposito"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Brinquedos",
+    "descricao": "Quebra-cabeça novo do Divertidamente",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Papelaria",
+    "descricao": "Pasta com papéis",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Infantil",
+    "descricao": "Lancheira do Bento",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Memórias",
+    "descricao": "Lembranças da infância do Bento",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Eletrônicos",
+    "descricao": "Teclado do Bento",
+    "comodo": "Escritório",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Artesanato",
+    "descricao": "Kit de bordado",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Cozinha",
+    "descricao": "Balde de pipoca",
+    "comodo": "Cozinha",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Higiene doméstica",
+    "descricao": "Repelente/veneno de tomada",
+    "comodo": "Lavanderia",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Jardinagem",
+    "descricao": "Vaso autoirrigável",
+    "comodo": "Geral",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Brinquedos",
+    "descricao": "Pedaço de quebra-cabeça da Bahia",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Brinquedos",
+    "descricao": "Bola de gude",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Brinquedos",
+    "descricao": "Elástico (jogo de elástico)",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
+  },
+  {
+    "caixa": "Caixa 60",
+    "categoria": "Brinquedos",
+    "descricao": "Pelúcia de capivara",
+    "comodo": "Quarto do Bento",
+    "prioridade": "Média",
+    "observacoes": null,
+    "local": "casa"
   }
 ]
