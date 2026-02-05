@@ -6118,5 +6118,29 @@
     "comodo": "Escritório",
     "prioridade": "Média",
     "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 136",
+    "categoria": "Casa",
+    "descricao": "Toalheiros",
+    "comodo": "Banheiro e Cozinha",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 136",
+    "categoria": "Casa",
+    "descricao": "Paninho da Vanessa",
+    "comodo": "Banheiro e Cozinha",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
+  },
+  {
+    "caixa": "Caixa 136",
+    "categoria": "Casa",
+    "descricao": "Suporte de paninho da Vanessa",
+    "comodo": "Banheiro e Cozinha",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: N"
   }
 ]
