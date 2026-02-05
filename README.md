@@ -61,6 +61,10 @@ Sistema de busca de itens para organização de mudança residencial.
 - JavaScript puro (sem frameworks)
 - Excel para gerenciamento dos dados
 
+## 🚀 Deploy
+
+O site é automaticamente deployado no GitHub Pages através de GitHub Actions a cada push na branch `main`.
+
 ## 📝 Notas
 
 Catálogo criado com Claude Code para facilitar a organização durante a mudança! 🏠✨
