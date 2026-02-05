@@ -6928,5 +6928,302 @@
     "prioridade": "Média",
     "observacoes": "Fragilidade: N",
     "local": "casa"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "viagem/lazer",
+    "descricao": "Bolsinhas em geral",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "viagem/lazer",
+    "descricao": "Necessaires",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "esporte",
+    "descricao": "Bolsa esportiva",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "viagem/lazer",
+    "descricao": "Pochetes",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "viagem/lazer",
+    "descricao": "Bolsas e organizadores de viagem",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "lazer",
+    "descricao": "Tapete para sentar na grama",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "lazer",
+    "descricao": "Colchão inflável infantil",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "lazer",
+    "descricao": "Puff inflável",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "lazer",
+    "descricao": "Poltrona inflável",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Gerson",
+    "categoria": "lazer",
+    "descricao": "Sofá inflável",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Vanda",
+    "categoria": "memoria/afetivo",
+    "descricao": "Fotografias",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Vanda",
+    "categoria": "memoria/afetivo",
+    "descricao": "Álbuns de fotos",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Vanda",
+    "categoria": "memoria/afetivo",
+    "descricao": "Trabalhos antigos do Bento",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Vanda",
+    "categoria": "memoria/afetivo",
+    "descricao": "Roupas de recordação",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Vanda",
+    "categoria": "memoria/afetivo",
+    "descricao": "Medalhas",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Vanda",
+    "categoria": "memoria/afetivo",
+    "descricao": "Cartinhas antigas do Bento",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Vanda",
+    "categoria": "memoria/afetivo",
+    "descricao": "Porta-retratos",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa TV Cultura",
+    "categoria": "escola/criatividade",
+    "descricao": "Materiais de artesanato escolar",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa TV Cultura",
+    "categoria": "escola/criatividade",
+    "descricao": "Placas de MDF",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa TV Cultura",
+    "categoria": "escola/criatividade",
+    "descricao": "Cofrinhos de papelão",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Segundo",
+    "categoria": "utilidades",
+    "descricao": "Ecobags",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Segundo",
+    "categoria": "utilidades",
+    "descricao": "Bolsa térmica",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Segundo",
+    "categoria": "utilidades/eletrica",
+    "descricao": "Aparato para instalação de LED",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Segundo",
+    "categoria": "eletrica",
+    "descricao": "Filtros de linha (2)",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Segundo",
+    "categoria": "decoracao",
+    "descricao": "Vasos cabeçudinho (2)",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Segundo",
+    "categoria": "escola",
+    "descricao": "Papéis coloridos escolares",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Segundo",
+    "categoria": "decoracao/iluminacao",
+    "descricao": "Luminária do Pac-Man",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Terceiro",
+    "categoria": "esporte",
+    "descricao": "Capacete de bicicleta",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Terceiro",
+    "categoria": "diversos",
+    "descricao": "AirMatch",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Terceiro",
+    "categoria": "bem-estar",
+    "descricao": "Incensos",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Terceiro",
+    "categoria": "bem-estar",
+    "descricao": "Óleos essenciais",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Sim",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Terceiro",
+    "categoria": "bem-estar",
+    "descricao": "Baralho de bruxaria",
+    "comodo": "Depósito",
+    "prioridade": "Baixa",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
+  },
+  {
+    "caixa": "Caixa Enzo Terceiro",
+    "categoria": "bem-estar",
+    "descricao": "Pistola massageadora",
+    "comodo": "Depósito",
+    "prioridade": "Média",
+    "observacoes": "Fragilidade: Não",
+    "local": "deposito"
   }
 ]
